@@ -61,6 +61,6 @@ Based in Bali, we’re a hub for technical Bitcoin education, offering:
 - **Instagram**: [@codeorange_devs](https://instagram.com/codeorangedevs)  
 - **Telegram**: [Join our Telegram Group](https://t.me/codeorangedevs)  
 - **[Nostr](https://primal.net/p/npub1gxqyeea3xspkd68mxlxsvvk3gdzdd555u504ynwpdj0ghg503mvq2gydt0)**:   
-- **💰 Official Donation Link**: 
+- **💰 Donations**: keypleb@blink.sv
 
 ![Code Orange Workshop](https://pbs.twimg.com/media/GoLACdXbYAA_vv1?format=jpg&name=large)
