@@ -6,7 +6,7 @@ Bitcoin lacks developers and node runners in Asia. **Code Orange** fixes this by
 
 ## **😇 💻 What We Do**
 
-- **Advanced Bitcoin Dev Education**: 8-week ![*Decoding Bitcoin* study cohorts](https://bitcoindevs.xyz/decoding/communities/code-orange) and 5-week *Sovereign Bitcoiner* crash courses
+- **Advanced Bitcoin Developer Education**: 8-week ![*Decoding Bitcoin* study cohorts](https://bitcoindevs.xyz/decoding/communities/code-orange) and 5-week *Sovereign Bitcoiner* crash courses
 - **Workshops**: Hands-on in-person workshops covering node-running, mining, multisig, private ecash payments, fedimint, Nostr and more to keep the network decentralised.  
 - **Community Hubs**: Partner with Bitcoin House Bali, Bitcoin Learning Centers, and bitcoin community hubs to host workshops in Thai, Vietnamese, Indonesian, Malay, English and Mandarin.  
 - **Developer Onboarding**: Connect Asian Bitcoin developers via Discord, monthly online meetups, accountability master-minds, and in-person events at bitcoin hubs in Kuala Lumpur, Chiang Mai, Bankgkok, Goa and more. 
