@@ -56,6 +56,7 @@ Bitcoin lacks developers and node runners in Asia. **Code Orange** fixes this by
 
 ![Code Orange Workshop](https://pbs.twimg.com/media/GoLACdXbYAA_vv1?format=jpg&name=large)
 ![Code Orange Workshop](https://codeorange.dev/wp-content/uploads/2025/06/Mastermind-Poster-1.png))
+![Code Orange Workshop](https://pbs.twimg.com/media/Guc6Xj9awAAgcf1?format=jpg&name=large)
 ![Code Orange Workshop](https://codeorange.dev/wp-content/uploads/2025/04/IMG_0035.jpeg)
 ![Code Orange Workshop](https://codeorange.dev/wp-content/uploads/2025/04/IMG_9990-scaled.jpg)
 keypleb@blink.sv
