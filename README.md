@@ -1,4 +1,4 @@
-# 🟠 Code Orange Developer School
+# 🟠 Code Orange Dev School
 
 Bitcoin lacks developers and node runners in Asia. **Code Orange** fixes this by training regular developers and bitcoiners into builders who strengthen Bitcoin’s network through advanced self-custody, node running and community leadership.
 
@@ -14,13 +14,17 @@ Bitcoin lacks developers and node runners in Asia. **Code Orange** fixes this by
 - **"Sovereign Bitcoiner" packs**: Sending parcels to community hubs with Tshirts, SeedSigners, stickers and workshop guides to empower community leaders with technical know-how on running bitcoiner workshops.
 - **Local Payments**: Tackle regional challenges with tools like Fedi’s federated mints, Koral and PlebQR for smoother payments.
 --- 
+**Goals:** 
+Two GitHub pull requests per week from the end of 2026
+21,000 additional full bitcoin nodes deployed by 2030
+Create 15 gig economy jobs (train-the-trainer program) through monthly workshops and study cohorts
 
 ![Code Orange Workshop](https://pbs.twimg.com/media/GpYYjPmacAAZxMJ?format=jpg&name=large)
 ---
 
 ## **☀Impact and Highlights**
 
-- Launched 2nd *Decoding Bitcoin* cohort with 12 graduates, contributing to Bitcoin Open Source Software.
+- Launched a 2nd *Decoding Bitcoin* cohort with 12 graduates, contributing to Bitcoin Open Source Software.
 - Biweekly workshops at Bitcoin House Bali on mining, multisig, private payments and advanced self-custody (e.g., [BitAxe Workshop](https://x.com/btchousebali/status/1883250217107271738)).  
 - Created a handful part-time jobs for local bitcoin developers and educators as part of our Train-the-trainer program.
 - Hosting an ongoing monthly [Bitcoin Reading Club](https://discord.gg/PrHct9eY6Z) every 4th Wednesday of the month.
