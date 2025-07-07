@@ -22,7 +22,7 @@ Create 15 gig economy jobs (train-the-trainer program) through monthly workshops
 ![Code Orange Workshop](https://pbs.twimg.com/media/GpYYjPmacAAZxMJ?format=jpg&name=large)
 ---
 
-## **☀Impact and Highlights**
+## **Impact and Highlights**
 
 - Launched a 2nd *Decoding Bitcoin* cohort with 12 graduates, contributing to Bitcoin Open Source Software.
 - Biweekly workshops at Bitcoin House Bali on mining, multisig, private payments and advanced self-custody (e.g., [BitAxe Workshop](https://x.com/btchousebali/status/1883250217107271738)).  
@@ -46,7 +46,7 @@ Create 15 gig economy jobs (train-the-trainer program) through monthly workshops
 
 ---
 
-## **☢Join the Bitcoin-Only [Discord Community](https://discord.gg/xd6dmPF9bA)**
+## **Join the Bitcoin-Only [Discord Community](https://discord.gg/xd6dmPF9bA)**
 
 - **Website**: [codeorange.dev](https://codeorange.dev)  
 - **X**: [@CodeOrangeDevs](https://x.com/CodeOrangeDevs)  
