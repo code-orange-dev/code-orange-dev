@@ -26,7 +26,7 @@ Bitcoin lacks developers and node runners in Asia. **Code Orange** fixes this by
 - Hosting an ongoing monthly [Bitcoin Reading Club](https://discord.gg/PrHct9eY6Z) every 4th Wednesday of the month.
 - Hosting a “[Sovereign Bitcoiner Mastermind](https://drive.google.com/file/d/1EwJxxaFp-ldk8O0rkIYEvdC7dOP5vD2K/view?usp=drive_link)” at Bitcoin Indonesia Conference 2025.   
 
-![Code Orange Workshop](https://via.placeholder.com/600x300.png?text=Code+Orange+Workshop) <!-- Replace with actual image URL -->
+![Code Orange Workshop](https://via.placeholder.com/600x300.png?text=Code+Orange+Workshop)
 
 ---
 
@@ -38,8 +38,7 @@ Bitcoin lacks developers and node runners in Asia. **Code Orange** fixes this by
 4. 💸 [Mastermind Guide]((https://github.com/code-orange-dev/mastermind-guide))  
 5. 🌐 [Train-the-Trainer Framework](https://github.com/codeorange/train-the-trainer)  
 
-[Explore all repos](https://github.com/code-orange-dev?tab=repositories)
-![Code Orange Workshop](https://codeorange.dev/wp-content/uploads/2025/04/IMG_0035.jpeg)
+**[Explore all repos](https://github.com/code-orange-dev?tab=repositories)**
 
 ---
 
@@ -53,4 +52,6 @@ Bitcoin lacks developers and node runners in Asia. **Code Orange** fixes this by
 
 ![Code Orange Workshop](https://pbs.twimg.com/media/GoLACdXbYAA_vv1?format=jpg&name=large)
 ![Code Orange Workshop](https://codeorange.dev/wp-content/uploads/2025/06/Mastermind-Poster-1.png))
+![Code Orange Workshop](https://codeorange.dev/wp-content/uploads/2025/04/IMG_0035.jpeg)
+![Code Orange Workshop](https://codeorange.dev/wp-content/uploads/2025/04/IMG_9990-scaled.jpg)
 keypleb@blink.sv
