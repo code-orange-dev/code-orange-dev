@@ -30,8 +30,6 @@ Bitcoin lacks developers and node runners in Asia. **Code Orange** fixes this by
 - Hosting an ongoing monthly [Bitcoin Reading Club](https://discord.gg/PrHct9eY6Z) every 4th Wednesday of the month.
 - Hosting a “[Sovereign Bitcoiner Mastermind](https://drive.google.com/file/d/1EwJxxaFp-ldk8O0rkIYEvdC7dOP5vD2K/view?usp=drive_link)” at Bitcoin Indonesia Conference 2025.   
 
-![Code Orange Workshop](https://via.placeholder.com/600x300.png?text=Code+Orange+Workshop)
-
 ---
 
 ## **Our Top 5 Resources**
