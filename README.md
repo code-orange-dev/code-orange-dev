@@ -21,7 +21,7 @@ Bitcoin lacks developers and node runners in Asia. **Code Orange** fixes this by
 - Inspire creation of 10 more Bitcoin Houses across Asia by the end of 2026.
 
 ![Code Orange Workshop](https://pbs.twimg.com/media/G4uZPPKbQAMojVs?format=jpg&name=large)
-![Code Orange Workshop](https://x.com/CodeOrangeDevs/status/1989719751195496684/photo/3)
+![Code Orange Workshop](https://pbs.twimg.com/media/G24Jn8cbcAA-qoV?format=jpg&name=large)
 ---
 
 ## **Impact and Highlights**
@@ -47,7 +47,7 @@ Bitcoin lacks developers and node runners in Asia. **Code Orange** fixes this by
 
 **[Explore all repos](https://github.com/code-orange-dev?tab=repositories)**
 
-![Code Orange Workshop](https://x.com/JimmyKostro/status/1984441872790827465/photo/2)
+![Code Orange Workshop](https://pbs.twimg.com/media/G10m5qob0AAZdwX?format=jpg&name=large)
 
 ---
 
@@ -63,7 +63,7 @@ Bitcoin lacks developers and node runners in Asia. **Code Orange** fixes this by
 ![Code Orange Workshop](https://codeorange.dev/wp-content/uploads/2025/06/Mastermind-Poster-1.png))
 ![Code Orange Workshop](https://pbs.twimg.com/media/Guc6Xj9awAAgcf1?format=jpg&name=large)
 ![Code Orange Workshop](https://codeorange.dev/wp-content/uploads/2025/04/IMG_0035.jpeg)
-![Code Orange Workshop](https://codeorange.dev/wp-content/uploads/2025/04/IMG_9990-scaled.jpg)
+![Code Orange Workshop](https://pbs.twimg.com/media/G10m5qmbcAAPL7f?format=jpg&name=large)
 ![Code Orange Workshop](https://pbs.twimg.com/media/G31H1ZaXEAMIzlH?format=jpg&name=large)
 ![Code Orange Workshop](https://pbs.twimg.com/media/G33nW2kW0AAWsTe?format=jpg&name=4096x4096)
 
