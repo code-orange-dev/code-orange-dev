@@ -32,6 +32,7 @@ Bitcoin lacks developers and node runners in Asia. **Code Orange** fixes this by
 - Hosting a “[Sovereign Bitcoiner Mastermind](https://drive.google.com/file/d/1EwJxxaFp-ldk8O0rkIYEvdC7dOP5vD2K/view?usp=drive_link)” at Bitcoin Indonesia Conference 2025.   
 
 ![Code Orange Workshop](https://pbs.twimg.com/media/G4rUiyzbQAEBmRS?format=jpg&name=large)
+![Code Orange Workshop](https://pbs.twimg.com/media/G33nW2kW0AAWsTe?format=jpg&name=4096x4096)
 ---
 
 ## **Our Top Resources**
@@ -65,6 +66,5 @@ Bitcoin lacks developers and node runners in Asia. **Code Orange** fixes this by
 ![Code Orange Workshop](https://pbs.twimg.com/media/G24Jn8cbcAA-qoV?format=jpg&name=large)
 ![Code Orange Workshop](https://pbs.twimg.com/media/G10m5qmbcAAPL7f?format=jpg&name=large)
 ![Code Orange Workshop](https://pbs.twimg.com/media/G31H1ZaXEAMIzlH?format=jpg&name=large)
-![Code Orange Workshop](https://pbs.twimg.com/media/G33nW2kW0AAWsTe?format=jpg&name=4096x4096)
 
 keypleb@blink.sv
