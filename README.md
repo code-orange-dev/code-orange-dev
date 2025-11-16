@@ -34,12 +34,11 @@ Bitcoin lacks developers and node runners in Asia. **Code Orange** fixes this by
 ---
 
 ## **Our Top 5 Resources**
-
-1. 👩‍💻 [Decoding Bitcoin Cohort Guide](https://github.com/codeorange/decoding-bitcoin)  
-2. 📘 [Bitcoin Privacy Workshop Slides](https://github.com/code-orange-dev/Bitcoin-Privacy-Workshop-Slides)  
-3. 🔧 [Open-Source Workshop Guides](https://github.com/codeorange/workshop-guides)  
-4. 💸 [Mastermind Guide](https://github.com/code-orange-dev/mastermind-guide)  
-5. 🌐 [Train-the-Trainer Framework](https://github.com/codeorange/train-the-trainer)  
+ 
+1. 📘 [Bitcoin Privacy Workshop Slides](https://github.com/code-orange-dev/Bitcoin-Privacy-Workshop-Slides)  
+2. 🔧 [Open-Source Workshop Guides](https://github.com/codeorange/workshop-guides)  
+3. 💸 [Mastermind Guide](https://github.com/code-orange-dev/mastermind-guide)  
+4. 🌐 [Train-the-Trainer Framework](https://github.com/codeorange/train-the-trainer)  
 
 **[Explore all repos](https://github.com/code-orange-dev?tab=repositories)**
 
