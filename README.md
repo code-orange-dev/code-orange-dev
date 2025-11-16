@@ -20,7 +20,8 @@ Bitcoin lacks developers and node runners in Asia. **Code Orange** fixes this by
 - Create 15 gig economy jobs (train-the-trainer program) through monthly workshops and study cohorts
 - Inspire creation of 10 more Bitcoin Houses across Asia by the end of 2026.
 
-![Code Orange Workshop](https://pbs.twimg.com/media/GpYYjPmacAAZxMJ?format=jpg&name=large)
+![Code Orange Workshop](https://pbs.twimg.com/media/G4uZPPKbQAMojVs?format=jpg&name=large)
+![Code Orange Workshop](https://x.com/CodeOrangeDevs/status/1989719751195496684/photo/3)
 ---
 
 ## **Impact and Highlights**
@@ -31,6 +32,7 @@ Bitcoin lacks developers and node runners in Asia. **Code Orange** fixes this by
 - Hosting an ongoing monthly [Bitcoin Reading Club](https://discord.gg/PrHct9eY6Z) every 4th Wednesday of the month. Launching Vibe Coding on Nostr workshop.
 - Hosting a “[Sovereign Bitcoiner Mastermind](https://drive.google.com/file/d/1EwJxxaFp-ldk8O0rkIYEvdC7dOP5vD2K/view?usp=drive_link)” at Bitcoin Indonesia Conference 2025.   
 
+![Code Orange Workshop](https://pbs.twimg.com/media/G4rUiyzbQAEBmRS?format=jpg&name=large)
 ---
 
 ## **Our Top Resources**
@@ -45,6 +47,8 @@ Bitcoin lacks developers and node runners in Asia. **Code Orange** fixes this by
 
 **[Explore all repos](https://github.com/code-orange-dev?tab=repositories)**
 
+![Code Orange Workshop](https://x.com/JimmyKostro/status/1984441872790827465/photo/2)
+
 ---
 
 ## **Join the Bitcoin-Only [Discord Community](https://discord.gg/xd6dmPF9bA)**
@@ -55,9 +59,12 @@ Bitcoin lacks developers and node runners in Asia. **Code Orange** fixes this by
 - **[Nostr](https://primal.net/p/npub1gxqyeea3xspkd68mxlxsvvk3gdzdd555u504ynwpdj0ghg503mvq2gydt0)**:   
 - **[Geyser Fund](https://geyser.fund/project/codeorangedevschool)** 
 
-![Code Orange Workshop](https://pbs.twimg.com/media/GoLACdXbYAA_vv1?format=jpg&name=large)
+![Code Orange Workshop](https://pbs.twimg.com/media/G4CKclnXYAAgIDq?format=jpg&name=large)
 ![Code Orange Workshop](https://codeorange.dev/wp-content/uploads/2025/06/Mastermind-Poster-1.png))
 ![Code Orange Workshop](https://pbs.twimg.com/media/Guc6Xj9awAAgcf1?format=jpg&name=large)
 ![Code Orange Workshop](https://codeorange.dev/wp-content/uploads/2025/04/IMG_0035.jpeg)
 ![Code Orange Workshop](https://codeorange.dev/wp-content/uploads/2025/04/IMG_9990-scaled.jpg)
+![Code Orange Workshop](https://pbs.twimg.com/media/G31H1ZaXEAMIzlH?format=jpg&name=large)
+![Code Orange Workshop](https://pbs.twimg.com/media/G33nW2kW0AAWsTe?format=jpg&name=4096x4096)
+
 keypleb@blink.sv
