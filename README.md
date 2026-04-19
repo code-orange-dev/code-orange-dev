@@ -15,10 +15,10 @@ Bitcoin lacks developers and node runners in Asia. **Code Orange** fixes this by
 - **Local Payments**: Empower plebs with freedom tools like Fedi's federated mints, Koral and PlebQR for smoother payments.
 --- 
 **Goals:** 
-- Two GitHub pull requests per week from the end of 2026
+- Two GitHub pull requests per week by the end of 2026
+- 30 community leaders trained by the end of 2026
 - 21,000 additional full bitcoin nodes deployed by 2030
 - Create 15 gig economy jobs (train-the-trainer program) through monthly workshops and study cohorts
-- Inspire creation of 10 more Bitcoin Houses across Asia by the end of 2026.
 
 ![Code Orange Workshop](https://pbs.twimg.com/media/G4uZPPKbQAMojVs?format=jpg&name=large)
 ---
