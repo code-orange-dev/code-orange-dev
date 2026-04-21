@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://codeorange.dev/images/logo.png" alt="Code Orange Dev School" width="420"/>
+
 # Asia's Bitcoin Developer School
 
 **Bitcoin lacks developers and node runners in Asia. Code Orange fixes this.**
@@ -15,7 +17,7 @@ We train developers and bitcoiners into builders who strengthen Bitcoin's networ
 
 ---
 
-## rawBit Study Cohort — Now Enrolling
+## 🎓 rawBit Study Cohort — Now Enrolling
 
 > **Next cohort starts May 11, 2026.** 10 weeks. Weekly Discord sessions. Real homework. Earn sats for completing assignments.
 
@@ -25,7 +27,7 @@ Our flagship cohort covers the full Bitcoin protocol stack from first principles
 
 ---
 
-## Bitcoin Dojo Cohort
+## 📊 Proof It Works — Bitcoin Dojo Cohort
 
 In partnership with **Chaincode Labs BOSS Challenge**, we ran an 8-week protocol deep-dive:
 
@@ -48,14 +50,16 @@ In partnership with **Chaincode Labs BOSS Challenge**, we ran an 8-week protocol
 | 7 | P2P handshake, mempool propagation, compact blocks, FIBRE |
 | 8 | Mining, difficulty adjustment, Stratum V2, Taproot, graduation & next steps |
 
+> *"Very proud of every single bitcoiner on the call and feel blessed to be part of this community."*
+
 ---
 
-## What We Do
+## ⚡ What We Do
 
-### 1. Advanced Bitcoin Dev Education
+### 1. 🎓 Advanced Bitcoin Dev Education
 8-week protocol deep-dive cohorts using [rawBit.io](https://rawbit.io) — a free, open-source interactive tool for building raw Bitcoin transactions. Homework earns sats. Graduates contribute to open source.
 
-### 2. Hands-On Workshops
+### 2. 🔧 Hands-On Workshops
 Weekly in-person and online sessions covering:
 - **Node running** (Umbrel, full node setup)
 - **Bitcoin mining** (BitAxe, Braiins, ASIC setup)
@@ -64,21 +68,21 @@ Weekly in-person and online sessions covering:
 - **Lightning** (channels, routing, LNbits, Alby)
 - **Nostr & Vibe Coding** (build apps with AI tools, no coding experience needed)
 
-### 3. Community Hubs
+### 3. 🌏 Community Hubs
 Partnering with Bitcoin House Bali, Bitcoin Learning Centers, and community hubs across Southeast Asia. Workshops delivered in **Thai, Vietnamese, Indonesian, Malay, English, and Mandarin**.
 
-### 4. Talent Scouting
-Training developers with resources from **Chaincode Labs**, **base58⛓️**, **₿Trust/Qala**, and **Vinteum** — guiding graduates to start contributing BOSS projects including Bitcoin Core, Lightning, Fedimint, eCash whilst encouraging them to apply for grants and switch to Bitcoin development full time.
+### 4. 🔍 Talent Scouting
+Training developers with resources from **Chaincode Labs**, **base58⛓️**, **₿Trust/Qala**, and **Vinteum** — guiding graduates to contribute to Bitcoin Core, Lightning, Fedimint, and more.
 
-### 5. Train-the-Trainer
-Headhunting and empowering technical community leaders to run technical workshops such as Sovereign Bitcoiner Workshop, Bitcoin Dojo, rawBit study cohorts, PR Review Clubs and more.
+### 5. 👥 Train-the-Trainer
+Headhunting and empowering technical community leaders at Bitcoin hubs across Asia. Monthly quality sessions + **"Sovereign Bitcoiner" packs** (T-shirts, SeedSigners, stickers, workshop guides) shipped to hubs.
 
-### 6. Local Bitcoin Payments
-Empowering communities with Fedi's federated mints for practical, private Bitcoin payments in everyday local economies.
+### 6. ⚡ Local Bitcoin Payments
+Empowering communities with Fedi's federated mints, Koral, and PlebQR for practical, private Bitcoin payments in everyday local economies.
 
 ---
 
-## Regional Reach
+## 🗺️ Regional Reach
 
 | Country | Cities | Status |
 |---------|--------|--------|
@@ -87,24 +91,26 @@ Empowering communities with Fedi's federated mints for practical, private Bitcoi
 | 🇹🇭 Thailand | Bangkok, Chiang Mai | Active |
 | 🇻🇳 Vietnam | Ho Chi Minh City | Active |
 | 🇰🇷 South Korea | Seoul | Active |
+| 🇮🇳 India | Remote | Active |
 | 🇿🇲 Zambia | Lusaka | Active |
 | 🇧🇷 Brazil | Remote | Active |
 | 🌐 Online | Discord | Global |
 
 ---
 
-## Goals
+## 🎯 Goals
 
 | Goal | Target |
 |------|--------|
-| 🛠️ GitHub pull requests per week to Bitcoin OSS | **2 PRs/week** from end of 2026 |
 | 📡 Additional full Bitcoin nodes deployed | **21,000** by 2030 |
-| 👥 Community leaders trained | **30** monthly workshops by end of 2026 |
+| 🛠️ GitHub pull requests per week to Bitcoin OSS | **2 PRs/week** from end of 2026 |
+| 🏠 New Bitcoin Houses across Asia | **10** by end of 2026 |
+| 👥 Community leaders trained | **30** by end of 2026 |
 | 💼 Gig economy jobs via Train-the-Trainer | **15** by 2026 |
 
 ---
 
-## Open Source Resources
+## 🛠️ Open Source Resources
 
 All Code Orange workshop slides are **free to use** — any community leader can run their own Bitcoin workshop in their city using our materials.
 
@@ -121,7 +127,7 @@ All Code Orange workshop slides are **free to use** — any community leader can
 
 ---
 
-## Partners
+## 🌐 Ecosystem & Partners
 
 We train with resources from and guide graduates toward:
 
@@ -136,7 +142,7 @@ We train with resources from and guide graduates toward:
 
 ---
 
-## Our Developer Community
+## 👨‍💻 Our Developer Community
 
 > *We build the community. They build Bitcoin.*
 
@@ -180,34 +186,34 @@ Code Orange supports a global network of Bitcoin developers. We provide mentorsh
 
 ---
 
-## Live Contributions
+## 🔗 Live Contributions
 
-### Privacy Protocols
+### 🔒 Privacy Protocols
 - **Silent Payments (BIP352):** [@chaitika](https://github.com/chaitika) → [silent-pay-wallet](https://github.com/Bitshala-Incubator/silent-pay-wallet) · [silent-pay-indexer](https://github.com/Bitshala-Incubator/silent-pay-indexer) · [silent-pay](https://github.com/Bitshala-Incubator/silent-pay)
 - **Payjoin (BIP77):** [@Arowolokehinde](https://github.com/Arowolokehinde) → [rust-payjoin](https://github.com/payjoin/rust-payjoin) — first PR approved ✅
 
-### Rust Bitcoin Infrastructure
+### 🦀 Rust Bitcoin Infrastructure
 - [@va-an](https://github.com/va-an) → [bdk-cli](https://github.com/bitcoindevkit/bdk-cli/issues?q=involves%3Ava-an) + [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin/issues?q=involves%3Ava-an)
 - [@mwihoti](https://github.com/mwihoti) → rust-bitcoin (in review)
 
-### P2P Network Security
+### 🔍 P2P Network Security
 - [@RazorBest](https://github.com/RazorBest) → [peer-observer](https://github.com/peer-observer/peer-observer) — [PR #390](https://github.com/peer-observer/peer-observer/pull/390) · [PR #393](https://github.com/peer-observer/peer-observer/pull/393)
 
-### Lightning & Wallet Tooling
+### ⚡ Lightning & Wallet Tooling
 - [@psychemist](https://github.com/psychemist) → rust-ldk, BDK Android WIF sweep, BIP375 Go implementation
 
-### Bitcoin Core & Protocol
+### ₿ Bitcoin Core & Protocol
 - [@pzafonte](https://github.com/pzafonte) → Bitcoin Core (C++), rust-bitcoin, Kernel-Node (under review)
 
-### Localisation
+### 🌐 Localisation
 - [@rollingdice](https://github.com/rollingdice) → BlueWallet Bahasa Indonesia translation
 
-### Novel Protocols
+### 🔬 Novel Protocols
 - [@0xlaga](https://github.com/0xlaga) → gossip-observer, bitcoin-visuals, BINST (Taproot+PSBT+ZK) — BTC++ finalist 🇧🇷
 
 ---
 
-## In the Field
+## 📸 In the Field
 
 ![Code Orange Workshop](https://codeorange.dev/images/gallery/photo-1.jpg)
 
@@ -217,7 +223,7 @@ Code Orange supports a global network of Bitcoin developers. We provide mentorsh
 
 ---
 
-## Connect
+## 🤝 Connect
 
 | Platform | Link |
 |----------|------|
