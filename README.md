@@ -48,8 +48,6 @@ In partnership with **Chaincode Labs BOSS Challenge**, we ran an 8-week protocol
 | 7 | P2P handshake, mempool propagation, compact blocks, FIBRE |
 | 8 | Mining, difficulty adjustment, Stratum V2, Taproot, graduation & next steps |
 
-> *"Very proud of every single bitcoiner on the call and feel blessed to be part of this community."*
-
 ---
 
 ## What We Do
