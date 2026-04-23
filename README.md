@@ -178,7 +178,7 @@ All curriculum is freely available under **CC0 (public domain)** — use it, for
 - **Support via [Geyser Fund](https://geyser.fund/project/codeorangedevschool)**
 
 ![Code Orange Workshop](https://pbs.twimg.com/media/G4CKclnXYAAgIDq?format=jpg&name=large)
-![Code Orange Workshop](https://codeorange.dev/wp-content/uploads/2025/06/Mastermind-Poster-1.png))
+![Code Orange Workshop](https://codeorange.dev/wp-content/uploads/2025/06/Mastermind-Poster-1.png)
 ![Code Orange Workshop](https://codeorange.dev/wp-content/uploads/2025/04/IMG_0035.jpeg)
 ![Code Orange Workshop](https://pbs.twimg.com/media/G24Jn8cbcAA-qoV?format=jpg&name=large)
 ![Code Orange Workshop](https://pbs.twimg.com/media/G10m5qmbcAAPL7f?format=jpg&name=large)
