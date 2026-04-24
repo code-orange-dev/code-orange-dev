@@ -13,6 +13,8 @@ Founded by [Keypleb](https://x.com/keypleb_), co-founder of [Bitcoin Indonesia](
 
 All curriculum is **free and open-source**. All materials are published on GitHub. Every graduate is a permanent asset for the Bitcoin ecosystem.
 
+"If someone in Asia wants to become a Bitcoin open-source contributor, Code Orange is the starting point.”
+
 ---
 
 ## ⚡ Traction
