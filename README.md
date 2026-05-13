@@ -22,9 +22,11 @@ All curriculum is **free and open-source**. All materials are published on GitHu
 Before we explain what we do, here's what we've already done:
 
 - **21 graduates** from our [Bitcoin Dojo](https://github.com/code-orange-dev/curriculum/tree/main/bitcoin-dojo) cohort (partnership with [Chaincode Labs](https://chaincode.com/) BOSS Challenge) — 49 registrants, 7-week intensive building Bitcoin primitives from scratch. Graduates now pursuing Good First Issues across Bitcoin Core, rust-bitcoin, and BDK.
-- **12 graduates** from our 2nd *Decoding Bitcoin* cohort are now actively contributing to Bitcoin open-source projects — with **merged and approved PRs** to Bitcoin Core, rust-bitcoin, BDK, rust-payjoin, peer-observer, LDK, and BlueWallet. **[Full PR tracking dashboard →](https://github.com/code-orange-dev/PR-tracking-dashboard)**
+- **13 active contributors** from our Decoding Bitcoin cohorts are now contributing to Bitcoin open-source projects — with **75+ PRs opened and 30+ merged** to Bitcoin Core, rust-bitcoin, BDK, rust-payjoin, rust-lightning (LDK), peer-observer, hex-conservative, rust-miniscript, and more. **[Full PR tracking dashboard →](https://github.com/code-orange-dev/PR-tracking-dashboard)**
+- **[Privacy Track](https://github.com/code-orange-dev/curriculum/tree/main/privacy-track)** — 12-session curriculum covering chain analysis defence, Silent Payments (BIP352), Payjoin (BIP77/78), CoinJoin, and privacy-preserving wallet development. Built with guest speakers from Fedi, Nunchuk, and the Bitcoin privacy community.
 - **[rawBit Study Cohort](https://github.com/code-orange-dev/curriculum/tree/main/rawbit) launched** (10 weeks) - building raw transactions from scratch with [@rawBit_io](https://x.com/rawBit_io), the open-source visual transaction builder.
 - **Developer community spanning 8 countries** — Indonesia, India, Romania, Nigeria, Kenya, Zambia, Brazil, and South Korea — with contributors working across privacy protocols (BIP352 Silent Payments, BIP77 Payjoin), Rust Bitcoin infrastructure, Lightning tooling, and Bitcoin Core itself.
+- **Peter ([@pzafonte](https://github.com/pzafonte)) contributing to Bitcoin Core** — PR [#34885](https://github.com/bitcoin/bitcoin/pull/34885) to the most critical Bitcoin project, plus Silent Payments integration into kernel-node.
 - **Keypleb, active bitcoiner in the community [Bitcoin Asia 2026](https://asia.b.tc/agenda)** speaking at local and international Bitcoin conference - representing Southeast Asian Bitcoin developer education on the global stage.
 - **Sovereign Bitcoiner Mastermind** hosted at [Bitcoin Indonesia Conference 2025](https://bitcoinindonesia.xyz/bitcoin-indonesia-conference-2025/) — Bali's flagship Bitcoin event (250+ attendees, alongside speakers like Alex Gladstein).
 - **Biweekly in-person workshops** at Code Orange Dev Schoo, Canggu, Bali.
@@ -40,13 +42,14 @@ Structured, peer-driven learning tracks taking developers from foundational Bitc
 
 **Recommended learning path:**
 ```
-Bitcoin Dojo (7 weeks) → rawBit (10 weeks) → Decoding Bitcoin (8 weeks) → Open-source contribution
+Bitcoin Dojo (7 weeks) → rawBit (10 weeks) → Decoding Bitcoin (8 weeks) → Privacy Track (12 sessions) → Open-source contribution
 ```
 
 - **[Bitcoin Dojo](https://github.com/code-orange-dev/curriculum/tree/main/bitcoin-dojo)** *(7 weeks)* — Build Bitcoin's cryptographic primitives from scratch using Jimmy Song's [Programming Bitcoin](https://github.com/jimmysong/programmingbitcoin). Partnership with [Chaincode Labs](https://chaincode.com/) BOSS Challenge. Covers finite fields, elliptic curves, ECDSA, keys, addresses, and transaction construction. **49 registrants, 21 graduates** in our first cohort — many now pursuing Good First Issues across Bitcoin Core, rust-bitcoin, and BDK.
 - **[rawBit Study Cohort](https://github.com/code-orange-dev/curriculum/tree/main/rawbit)** *(10 weeks)* — Build raw Bitcoin transactions from scratch using [rawBit](https://github.com/rawBit-io/rawbit), an open-source visual transaction builder and Script debugger. Covers legacy transactions, multisig, timelocks, SegWit, and Taproot — all hands-on with an interactive tool. In partnership with [@rawBit_io](https://x.com/rawBit_io).
 - **[Decoding Bitcoin](https://github.com/code-orange-dev/curriculum/tree/main/decoding-bitcoin)** *(8 weeks)* — An intensive cohort where participants self-study Bitcoin transactions, Scripts, Taproot, PSBTs, and Bitcoin Core contribution workflows through hands-on sessions. Built on world-class open-source resources from [Chaincode Labs](https://chaincode.com/) and the [Bitcoin Dev Project](https://bitcoindevs.xyz/). Our 2nd cohort produced **12 graduates now contributing to Bitcoin open-source software**.
 - **[Sovereign Bitcoiner Crash Course](https://github.com/code-orange-dev/curriculum/tree/main/sovereign-bitcoiner)** *(5-10 weeks)* — A hands-on deep-dive covering full node operation (Umbrel), BitAxe mining, multisig setup (Nunchuk, Casa), inheritance planning, BTCPay Server deployment, and privacy tools (eCash, Fedimint). Graduates leave with deployed, working systems — including a running node, a BTCPay server, and a multisig inheritance plan. Also covers Bitcoin culture: why we run nodes, why self-custody matters, and how to defend against the $5 wrench attack.
+- **[Privacy Track](https://github.com/code-orange-dev/curriculum/tree/main/privacy-track)** *(12 sessions, biweekly)* — Our most advanced curriculum. Covers chain analysis defence, CoinJoin mechanics, Silent Payments (BIP352), Payjoin (BIP77/78), Tor integration, Lightning privacy, and contributing to privacy-focused Bitcoin FOSS. Graduates leave ready to submit PRs to projects like rust-payjoin, Fedimint, and Wasabi. Built with input from Fedi, Nunchuk, and the Bitcoin privacy community.
 - **[Vibe Coding on Nostr](https://github.com/code-orange-dev/curriculum/tree/main/nostr-workshops)** *(Monthly)* — Monthly workshops exploring Bitcoin-adjacent open-source development: building on Nostr, Lightning integrations, and FOSS tooling. Now includes in-person [OpenClaw](https://x.com/openclaw) workshops at Bitcoin House Bali.
 - **Monthly [Bitcoin Reading Club](https://discord.gg/PrHct9eY6Z)** — Every 4th Wednesday, an ongoing peer-learning community for technical Bitcoiners.
 
@@ -110,7 +113,8 @@ Every graduate who runs a full node, submits a pull request, or teaches another 
 ## Impact & Highlights
 
 - **21 graduates** from our [Bitcoin Dojo](https://github.com/code-orange-dev/curriculum/tree/main/bitcoin-dojo) cohort — 49 registrants, partnership with [Chaincode Labs](https://chaincode.com/) BOSS Challenge, graduates now pursuing Good First Issues.
-- **12 graduates** from our 2nd *Decoding Bitcoin* cohort are now actively contributing to Bitcoin open-source software — with merged and approved PRs across Bitcoin Core, rust-bitcoin, BDK, rust-payjoin, peer-observer, and LDK. **[See full PR dashboard →](https://github.com/code-orange-dev/PR-tracking-dashboard)**
+- **13 active contributors** now contributing to Bitcoin open-source software — with **75+ PRs opened and 30+ merged** across Bitcoin Core, rust-bitcoin, BDK, rust-payjoin, peer-observer, LDK, hex-conservative, rust-miniscript, kernel-node, and 15+ more projects. **[See full PR dashboard →](https://github.com/code-orange-dev/PR-tracking-dashboard)**
+- **[Privacy Track](https://github.com/code-orange-dev/curriculum/tree/main/privacy-track) launched** — 12-session curriculum covering chain analysis defence, Silent Payments (BIP352), Payjoin (BIP77/78), CoinJoin, and privacy-preserving wallet development.
 - **[rawBit Study Cohort](https://github.com/code-orange-dev/curriculum/tree/main/rawbit) launched** — 10-week program building raw transactions with [@rawBit_io](https://x.com/rawBit_io).
 - **Biweekly workshops** at Bitcoin House Bali covering mining, multisig, private payments, and advanced self-custody — including a sold-out [BitAxe Workshop](https://x.com/btchousebali/status/1883250217107271738) that put open-source mining hardware in developers' hands.
 - **Part-time jobs created** for local Bitcoin developers and educators through our train-the-trainer program — building a sustainable educator economy in the region.
@@ -134,10 +138,14 @@ All curriculum is freely available under **CC0 (public domain)** — use it, for
 
 - **[curriculum](https://github.com/code-orange-dev/curriculum)** — Complete structured curriculum with week-by-week syllabi, exercises, assessments, and facilitator guides for all programs: Bitcoin Dojo, rawBit, Decoding Bitcoin, Sovereign Bitcoiner, and Nostr workshops
 
+### Privacy Track (NEW)
+
+- **[Privacy Track](https://github.com/code-orange-dev/curriculum/tree/main/privacy-track)** — 12-session deep-dive: chain analysis, CoinJoin, Silent Payments (BIP352), Payjoin (BIP77/78), Tor/VPN, Lightning privacy, and contribution to privacy-focused Bitcoin FOSS
+
 ### Impact & Tracking
 
 - **[Impact Report](https://github.com/code-orange-dev/impact-report)** — Developer outcomes, PR contributions, workshop reach, and community growth
-- **[PR Tracking Dashboard](https://github.com/code-orange-dev/PR-tracking-dashboard)** — Every pull request by Code Orange community members, updated monthly
+- **[PR Tracking Dashboard](https://github.com/code-orange-dev/PR-tracking-dashboard)** — Every pull request by Code Orange community members, updated monthly — **75+ PRs, 30+ merged, 25+ projects**
 
 ### Workshop Slides & Guides
 
@@ -186,24 +194,24 @@ Code Orange supports a global network of Bitcoin developers across 8 countries. 
 
 | Developer | GitHub | What They're Building |
 |-----------|--------|-----------------------|
-| Chaitika | [@chaitika](https://github.com/chaitika) | Silent Payments (BIP352) — [silent-pay-wallet](https://github.com/Bitshala-Incubator/silent-pay-wallet), [silent-pay-indexer](https://github.com/Bitshala-Incubator/silent-pay-indexer), [silent-pay](https://github.com/Bitshala-Incubator/silent-pay) library at Bitshala Incubator. Also leads Lightning Network cohorts in India. |
-| Vaan | [@va-an](https://github.com/va-an) | Active contributor to [bdk-cli](https://github.com/bitcoindevkit/bdk-cli/issues?q=involves%3Ava-an) and [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin/issues?q=involves%3Ava-an) — the Rust wallet infrastructure used by dozens of production Bitcoin apps. |
-| Razor | [@RazorBest](https://github.com/RazorBest) | [PR #390](https://github.com/peer-observer/peer-observer/pull/390) and [PR #393](https://github.com/peer-observer/peer-observer/pull/393) merged to peer-observer — 0xB10C's Bitcoin P2P network security monitoring tool. BOSS Challenge participant. |
-| Arowolo | [@Arowolokehinde](https://github.com/Arowolokehinde) | First PR to [rust-payjoin](https://github.com/payjoin/rust-payjoin) approved ✅ — contributing to Async Payjoin (BIP77), one of Bitcoin's most important privacy protocols. |
-| Psychemist | [@psychemist](https://github.com/psychemist) | BDK Android WIF sweep tool, BIP375 Go implementation, rust-ldk (LDK) contributions — working across wallet, protocol, and Lightning layers. |
+| Chaitika | [@chaitika](https://github.com/chaitika) | Silent Payments (BIP352) — 11 merged PRs in 2026 alone across [silent-pay-wallet](https://github.com/Bitshala-Incubator/silent-pay-wallet), [silent-pay-indexer](https://github.com/Bitshala-Incubator/silent-pay-indexer), and Bitshala LN assignments. Major wallet refactoring (BIP47 removal, Tor/Orbot integration). Also leads Lightning Network cohorts in India. |
+| Vaan | [@va-an](https://github.com/va-an) | 14 PRs in 2026 across 7 projects — [rust-payjoin](https://github.com/payjoin/rust-payjoin), [bdk-cli](https://github.com/bitcoindevkit/bdk-cli), [bdk_wallet](https://github.com/bitcoindevkit/bdk_wallet), [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin), [rust-miniscript](https://github.com/rust-bitcoin/rust-miniscript), [esplora-cli](https://github.com/yancyribbens/esplora-cli), and [bitcoin-dev-project](https://github.com/bitcoin-dev-project). |
+| Razor | [@RazorBest](https://github.com/RazorBest) | 36 PRs in 2026 — [peer-observer](https://github.com/peer-observer/peer-observer) (eBPF extractor, Prometheus anomaly detection), [rust-bitcoin/corepc](https://github.com/rust-bitcoin/corepc), and building [bip324-mitm](https://github.com/RazorBest/bip324-mitm) — a BIP324 encrypted transport testing tool. BOSS Challenge participant. |
+| Gradale | [@alexgrad42](https://github.com/alexgrad42) | 6 PRs in 2026 — [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) ([#6125](https://github.com/rust-bitcoin/rust-bitcoin/pull/6125) merged — constant-time Poly1305 equality), [hex-conservative](https://github.com/rust-bitcoin/hex-conservative) ([#245](https://github.com/rust-bitcoin/hex-conservative/pull/245) merged), and [rust-lightning/LDK](https://github.com/lightningdevkit/rust-lightning) ([#4589](https://github.com/lightningdevkit/rust-lightning/pull/4589) — fuzz testing). |
+| Arowolo | [@Arowolokehinde](https://github.com/Arowolokehinde) | Active contributor to [rust-payjoin](https://github.com/payjoin/rust-payjoin) — 2 new PRs in 2026 ([#1498](https://github.com/payjoin/rust-payjoin/pull/1498), [#1457](https://github.com/payjoin/rust-payjoin/pull/1457)) contributing to Async Payjoin (BIP77). |
+| Psychemist | [@psychemist](https://github.com/psychemist) | 9 PRs in 2026 — [OP_CHECKSIGADD implementation](https://github.com/saving-satoshi/saving-satoshi-script/pull/19), [bitcointranscripts](https://github.com/bitcointranscripts/bitcointranscripts/pull/615), [mastering-taproot](https://github.com/aaron-recompile/mastering-taproot) (Schnorr fixes), [devkit-wallet](https://github.com/bitcoindevkit/devkit-wallet/pull/53) WIF QR sweep. |
+| Peter | [@pzafonte](https://github.com/pzafonte) | 16 PRs in 2026 — [Bitcoin Core](https://github.com/bitcoin/bitcoin/pull/34885) (#34885!), [kernel-node](https://github.com/kernel-node/kernel-node/pull/50) (Silent Payments integration), [rust-bitcoinkernel](https://github.com/sedited/rust-bitcoinkernel), [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) P2P work. Contributing to the deepest layers of the Bitcoin stack. |
 | Diegodev | [@0xlaga](https://github.com/0xlaga) | gossip-observer contributions, bitcoin-visuals org, BINST (Taproot+inscriptions+PSBT+ZK) — BTC++ hackathon finalist 🇧🇷 |
-| Peter | [@pzafonte](https://github.com/pzafonte) | Contributing to Bitcoin Core (C++) and rust-bitcoin — the deepest layer of the Bitcoin stack. Kernel-Node work under review. |
 
 ### 🟡 Emerging — First PRs In Progress or Imminent
 
 | Developer | GitHub | Direction |
 |-----------|--------|-----------|
 | Captain Levi | [@SIDHARTH20K4](https://github.com/SIDHARTH20K4) | BDK contributions — building on dust-disposal wallet work |
-| Mwihoti | [@mwihoti](https://github.com/mwihoti) | rust-bitcoin contributions in review |
+| Mwihoti | [@mwihoti](https://github.com/mwihoti) | rust-bitcoin [#5801](https://github.com/rust-bitcoin/rust-bitcoin/pull/5801) — add missing encoder/decoders for units crate. Also contributing to weaviate and IntersectMBO/lsm-tree. |
 | Yongki | [@ywiyogo](https://github.com/ywiyogo) | Bitcoin Core (C++) — already knows CMake, the exact build system |
 | Ilie | [@Ilie27](https://github.com/Ilie27) | Bitaxe open-source mining firmware + Stratum V2 |
 | Elijahhh | [@ElijahMwambazi](https://github.com/ElijahMwambazi) | Lightning Network (Rust) — co-organiser of BitDevs Zambia 🇿🇲 |
-| Gradale | *(handle on request)* | rust-bitcoin or core-lightning — first Bitcoin PR imminent |
 | Muhammad | [@muhahahmad68](https://github.com/muhahahmad68) | Floresta / BDK — proven OSS contributor (SurrealDB PR merged), first Bitcoin PR imminent |
 
 ### 🔵 Building Foundation
@@ -229,27 +237,31 @@ Code Orange supports a global network of Bitcoin developers across 8 countries. 
 
 ### Live Contributions From Our Community
 
-These are real, verified pull requests and contributions made by Code Orange community members:
+These are real, verified pull requests and contributions made by Code Orange community members — **75+ PRs opened, 30+ merged across 25+ Bitcoin projects** as of May 2026:
+
+**Bitcoin Core & Protocol**
+- [@pzafonte](https://github.com/pzafonte) → [Bitcoin Core #34885](https://github.com/bitcoin/bitcoin/pull/34885), [kernel-node](https://github.com/kernel-node/kernel-node/pull/50) (Silent Payments integration), [rust-bitcoinkernel](https://github.com/sedited/rust-bitcoinkernel), [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) P2P — **16 PRs in 2026**
 
 **Privacy Protocols**
-- Silent Payments (BIP352): [@chaitika](https://github.com/chaitika) → [silent-pay-wallet](https://github.com/Bitshala-Incubator/silent-pay-wallet) · [silent-pay-indexer](https://github.com/Bitshala-Incubator/silent-pay-indexer) · [silent-pay](https://github.com/Bitshala-Incubator/silent-pay)
-- Payjoin (BIP77): [@Arowolokehinde](https://github.com/Arowolokehinde) → [rust-payjoin](https://github.com/payjoin/rust-payjoin) — first PR approved ✅
+- Silent Payments (BIP352): [@chaitika](https://github.com/chaitika) → [silent-pay-wallet](https://github.com/Bitshala-Incubator/silent-pay-wallet) · [silent-pay-indexer](https://github.com/Bitshala-Incubator/silent-pay-indexer) — **11 merged PRs in 2026** (Tor/Orbot integration, BIP47 removal, major refactoring)
+- Payjoin (BIP77): [@Arowolokehinde](https://github.com/Arowolokehinde) → [rust-payjoin](https://github.com/payjoin/rust-payjoin) — [#1498](https://github.com/payjoin/rust-payjoin/pull/1498), [#1457](https://github.com/payjoin/rust-payjoin/pull/1457)
 
 **Rust Bitcoin Infrastructure**
-- [@va-an](https://github.com/va-an) → [bdk-cli](https://github.com/bitcoindevkit/bdk-cli/issues?q=involves%3Ava-an) + [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin/issues?q=involves%3Ava-an)
-- [@mwihoti](https://github.com/mwihoti) → [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) (in review)
+- [@va-an](https://github.com/va-an) → **14 PRs in 2026** across [rust-payjoin](https://github.com/payjoin/rust-payjoin), [bdk-cli](https://github.com/bitcoindevkit/bdk-cli), [bdk_wallet](https://github.com/bitcoindevkit/bdk_wallet), [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin), [rust-miniscript](https://github.com/rust-bitcoin/rust-miniscript), [esplora-cli](https://github.com/yancyribbens/esplora-cli)
+- [@alexgrad42](https://github.com/alexgrad42) → **6 PRs** — [rust-bitcoin #6125](https://github.com/rust-bitcoin/rust-bitcoin/pull/6125) (merged, constant-time Poly1305), [hex-conservative #245](https://github.com/rust-bitcoin/hex-conservative/pull/245) (merged), [LDK #4589](https://github.com/lightningdevkit/rust-lightning/pull/4589) (fuzz testing)
+- [@mwihoti](https://github.com/mwihoti) → [rust-bitcoin #5801](https://github.com/rust-bitcoin/rust-bitcoin/pull/5801) — add missing encoder/decoders for units crate
 
-**P2P Network Security**
-- [@RazorBest](https://github.com/RazorBest) → [peer-observer](https://github.com/peer-observer/peer-observer) — [PR #390](https://github.com/peer-observer/peer-observer/pull/390) · [PR #393](https://github.com/peer-observer/peer-observer/pull/393)
+**P2P Network Security & Transport**
+- [@RazorBest](https://github.com/RazorBest) → **36 PRs in 2026** — [peer-observer](https://github.com/peer-observer/peer-observer) (eBPF extractor, Prometheus anomaly detection), [corepc](https://github.com/rust-bitcoin/corepc), [bip324-mitm](https://github.com/RazorBest/bip324-mitm)
+
+**Taproot, Script & Education**
+- [@psychemist](https://github.com/psychemist) → **9 PRs in 2026** — [OP_CHECKSIGADD (BIP-342)](https://github.com/saving-satoshi/saving-satoshi-script/pull/19), [bitcointranscripts](https://github.com/bitcointranscripts/bitcointranscripts/pull/615), [mastering-taproot](https://github.com/aaron-recompile/mastering-taproot), [devkit-wallet](https://github.com/bitcoindevkit/devkit-wallet/pull/53)
+
+**Lightning & eCash**
+- [@dayvvo](https://github.com/dayvvo) → [Alby js-sdk](https://github.com/getalby/js-sdk), [Alby bitcoin-connect](https://github.com/getalby/bitcoin-connect), [cashu-ts](https://github.com/cashubtc/cashu-ts)
 
 **Localisation & Accessibility**
 - [@rollingdice](https://github.com/rollingdice) → [BlueWallet](https://github.com/BlueWallet/BlueWallet) Bahasa Indonesia translation
-
-**Lightning & Wallet Tooling**
-- [@psychemist](https://github.com/psychemist) → rust-ldk (LDK), BDK Android WIF sweep, BIP375 Go implementation
-
-**Bitcoin Core & Protocol**
-- [@pzafonte](https://github.com/pzafonte) → Bitcoin Core (C++), rust-bitcoin, Kernel-Node (under review)
 
 **Novel Protocols & Visualisations**
 - [@0xlaga](https://github.com/0xlaga) → gossip-observer, bitcoin-visuals, BINST protocol (Taproot+PSBT+ZK) — BTC++ finalist 🇧🇷

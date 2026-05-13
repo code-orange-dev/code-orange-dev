@@ -35,8 +35,8 @@
 | 10 | Chaitika | [@chaitika](https://github.com/chaitika) | [silent-pay-wallet](https://github.com/Bitshala-Incubator/silent-pay-wallet) | [View PRs](https://github.com/Bitshala-Incubator/silent-pay-wallet/pulls?q=involves%3Achaitika) | Silent Payments (BIP352) wallet implementation | 2025 | Merged |
 | 11 | Chaitika | [@chaitika](https://github.com/chaitika) | [silent-pay-indexer](https://github.com/Bitshala-Incubator/silent-pay-indexer) | [View PRs](https://github.com/Bitshala-Incubator/silent-pay-indexer/pulls?q=involves%3Achaitika) | Silent Payments indexer | 2025 | Merged |
 | 12 | Chaitika | [@chaitika](https://github.com/chaitika) | [silent-pay](https://github.com/Bitshala-Incubator/silent-pay) | [View PRs](https://github.com/Bitshala-Incubator/silent-pay/pulls?q=involves%3Achaitika) | Silent Payments library | 2025 | Merged |
-| 13 | Gradale (alexgrad42) | [@alexgrad42](https://github.com/alexgrad42) | [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) | [#6125](https://github.com/rust-bitcoin/rust-bitcoin/pull/6125) | crypto: use constant-time equality for Poly1305 tags | May 2026 | Merged |
-| 14 | Gradale (alexgrad42) | [@alexgrad42](https://github.com/alexgrad42) | [hex-conservative](https://github.com/rust-bitcoin/hex-conservative) | [#245](https://github.com/rust-bitcoin/hex-conservative/pull/245) | macros: add docs and examples to fmt_hex_exact | May 2026 | Merged |
+| 13 | Gradale | [@alexgrad42](https://github.com/alexgrad42) | [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) | [#6125](https://github.com/rust-bitcoin/rust-bitcoin/pull/6125) | crypto: use constant-time equality for Poly1305 tags | May 2026 | Merged |
+| 14 | Gradale | [@alexgrad42](https://github.com/alexgrad42) | [hex-conservative](https://github.com/rust-bitcoin/hex-conservative) | [#245](https://github.com/rust-bitcoin/hex-conservative/pull/245) | macros: add docs and examples to fmt_hex_exact | May 2026 | Merged |
 | 15 | Vaan | [@va-an](https://github.com/va-an) | [rust-payjoin](https://github.com/payjoin/rust-payjoin) | [#1509](https://github.com/payjoin/rust-payjoin/pull/1509) | fix(mailroom): reject post requests over capacity | May 2026 | Merged |
 | 16 | Vaan | [@va-an](https://github.com/va-an) | [bdk-cli](https://github.com/bitcoindevkit/bdk-cli) | [#270](https://github.com/bitcoindevkit/bdk-cli/pull/270) | fix: fix RUSTSEC-2026-0097 for rand 0.9 | Apr 2026 | Merged |
 | 17 | Vaan | [@va-an](https://github.com/va-an) | [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) | [#5939](https://github.com/rust-bitcoin/rust-bitcoin/pull/5939) | bitcoin: derive Clone for SighashCache | Apr 2026 | Merged |
@@ -69,10 +69,10 @@
 
 | # | Developer | GitHub | Project | PR Link | Description | Status |
 |---|-----------|--------|---------|---------|-------------|--------|
-| 1 | Gradale (alexgrad42) | [@alexgrad42](https://github.com/alexgrad42) | [hex-conservative](https://github.com/rust-bitcoin/hex-conservative) | [#247](https://github.com/rust-bitcoin/hex-conservative/pull/247) | Add fmt_hex_exact_lower and fmt_hex_exact_upper macros | Open (concept ACK from apoelstra) |
-| 2 | Gradale (alexgrad42) | [@alexgrad42](https://github.com/alexgrad42) | [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) | [#6131](https://github.com/rust-bitcoin/rust-bitcoin/pull/6131) | Add fuzz tests for constant_time_eq | Open |
-| 3 | Gradale (alexgrad42) | [@alexgrad42](https://github.com/alexgrad42) | [rust-lightning (LDK)](https://github.com/lightningdevkit/rust-lightning) | [#4589](https://github.com/lightningdevkit/rust-lightning/pull/4589) | fuzz: remove splicing blocks in chanmon_consistency_target | Open |
-| 4 | Gradale (alexgrad42) | [@alexgrad42](https://github.com/alexgrad42) | [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) | [#6112](https://github.com/rust-bitcoin/rust-bitcoin/pull/6112) | fuzz: rewrite hashes_json target using Arbitrary | Open |
+| 1 | Gradale | [@alexgrad42](https://github.com/alexgrad42) | [hex-conservative](https://github.com/rust-bitcoin/hex-conservative) | [#247](https://github.com/rust-bitcoin/hex-conservative/pull/247) | Add fmt_hex_exact_lower and fmt_hex_exact_upper macros | Open (concept ACK from apoelstra) |
+| 2 | Gradale | [@alexgrad42](https://github.com/alexgrad42) | [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) | [#6131](https://github.com/rust-bitcoin/rust-bitcoin/pull/6131) | Add fuzz tests for constant_time_eq | Open |
+| 3 | Gradale | [@alexgrad42](https://github.com/alexgrad42) | [rust-lightning (LDK)](https://github.com/lightningdevkit/rust-lightning) | [#4589](https://github.com/lightningdevkit/rust-lightning/pull/4589) | fuzz: remove splicing blocks in chanmon_consistency_target | Open |
+| 4 | Gradale | [@alexgrad42](https://github.com/alexgrad42) | [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) | [#6112](https://github.com/rust-bitcoin/rust-bitcoin/pull/6112) | fuzz: rewrite hashes_json target using Arbitrary | Open |
 | 5 | Vaan | [@va-an](https://github.com/va-an) | [rust-payjoin](https://github.com/payjoin/rust-payjoin) | [#1554](https://github.com/payjoin/rust-payjoin/pull/1554) | refactor(cli): simplify bip cli args | Open |
 | 6 | Vaan | [@va-an](https://github.com/va-an) | [bdk-cli](https://github.com/bitcoindevkit/bdk-cli) | [#281](https://github.com/bitcoindevkit/bdk-cli/pull/281) | chore(rustsec): update rustls-webpki 0.103.10 | Open |
 | 7 | Vaan | [@va-an](https://github.com/va-an) | [payjoin.org](https://github.com/payjoin/payjoin.org) | [#133](https://github.com/payjoin/payjoin.org/pull/133) | docs(typo): oblivous -> oblivious | Open |
@@ -121,15 +121,15 @@
 | Category | Project | Contributors |
 |----------|---------|-------------|
 | **Protocol & Privacy** | Bitcoin Core (C++) | Peter |
-| | rust-bitcoin | Vaan, Peter, Mwihoti, Gradale (alexgrad42) |
+| | rust-bitcoin | Vaan, Peter, Mwihoti, Gradale |
 | | rust-miniscript | Vaan |
 | | rust-payjoin (BIP77) | Arowolo, Vaan |
 | | Silent Payments (BIP352) | Chaitika, Peter (kernel-node SP integration) |
 | | coinswap | Kirito |
-| | hex-conservative | Gradale (alexgrad42) |
+| | hex-conservative | Gradale |
 | **Wallet & Infrastructure** | BDK / bdk-cli / bdk_wallet | Vaan, Psychemist, Captain Levi |
 | | devkit-wallet | Psychemist |
-| | LDK (Lightning Dev Kit) | Gradale (alexgrad42) |
+| | LDK (Lightning Dev Kit) | Gradale |
 | | BIP375 Go | Psychemist |
 | | kernel-node | Peter |
 | | rust-bitcoinkernel | Peter |
@@ -159,7 +159,7 @@
 ## Monthly Tracking Log
 
 ### May 2026 (Week 2 Update)
-- **NEW CONTRIBUTOR:** Gradale (alexgrad42) added with 6 PRs — rust-bitcoin (#6125 merged, #6131, #6112 open), hex-conservative (#245 merged, #247 open), rust-lightning/LDK (#4589 open)
+- **NEW CONTRIBUTOR:** Gradale added with 6 PRs — rust-bitcoin (#6125 merged, #6131, #6112 open), hex-conservative (#245 merged, #247 open), rust-lightning/LDK (#4589 open)
 - **Chaitika:** 11 new merged PRs in 2026 across silent-pay-wallet, silent-pay-indexer, and Bitshala LN assignments. Major refactoring work removing BIP47, Multisig, Apple features
 - **Vaan:** 14 new PRs in 2026 across 7 projects — rust-payjoin, bdk-cli, bdk_wallet, rust-bitcoin, rust-miniscript, esplora-cli, bitcoin-dev-project, payjoin.org
 - **Razor:** 36 PRs in 2026 — peer-observer (anomaly detection with Prometheus, eBPF extractor), rust-bitcoin/corepc, bip324-mitm (new project!)

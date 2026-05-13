@@ -6,6 +6,21 @@
 
 ## May 2026
 
+### Week 2 (May 13) — Major PR Dashboard Update
+- **PR Dashboard updated** — 75+ PRs now tracked across 25+ Bitcoin projects (up from 18+), 30+ merged (up from 12+)
+- **alexgrad42 (Gradale) added as active contributor** — 6 PRs to rust-bitcoin (#6125 merged), hex-conservative (#245 merged), and rust-lightning/LDK (#4589)
+- **Chaitika** — 11 merged PRs in 2026: major silent-pay-wallet refactoring (BIP47 removal, Tor/Orbot integration, multisig removal)
+- **Vaan** — 14 PRs across 7 projects: rust-payjoin, bdk-cli, bdk_wallet, rust-bitcoin, rust-miniscript, esplora-cli, bitcoin-dev-project
+- **Razor** — 36 PRs: peer-observer (Prometheus anomaly detection, eBPF extractor), corepc, new bip324-mitm tool
+- **Peter** — 16 PRs including Bitcoin Core #34885, kernel-node Silent Payments integration, rust-bitcoinkernel
+- **Psychemist** — 9 PRs: OP_CHECKSIGADD implementation (BIP-342), bitcointranscripts, mastering-taproot, devkit-wallet WIF QR sweep
+- **Arowolo** — 2 new rust-payjoin PRs (#1498, #1457)
+- **Mwihoti** — New rust-bitcoin PR #5801 (encoder/decoders for units crate)
+- Privacy Track added to main README and recommended learning path
+- Developer community section fully refreshed with verified 2026 PR counts
+- 13 active contributors now tracked (up from 12)
+
+### Week 1
 - Privacy Track curriculum published — 12 sessions covering chain analysis, Silent Payments (BIP352), Payjoin (BIP77/78), and privacy-preserving wallet development
 - Fellowship program launched — Developer ($500/mo) and Educator ($250/mo) tracks with proposal templates and agreements
 - 3 graduate case studies published — Chaitika (Silent Payments), Arowolo (rust-payjoin), Razor (peer-observer)
