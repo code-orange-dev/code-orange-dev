@@ -6,6 +6,14 @@
 
 ## May 2026
 
+### Week 3 (May 14) — Full PR Verification & Corrections
+- **Every PR cross-checked against live GitHub data** — major accuracy sweep
+- 9 PRs moved from "Open" to "Merged" (Peter's Bitcoin Core #34885 confirmed merged!, Arowolo's 2 payjoin PRs merged, Vaan #1554, Psychemist #24 & #31)
+- 9 PRs moved to new "Closed" section (Gradale #6131, #6112, #4589; Vaan #916, #311, #240; Psychemist #25, #26; Mwihoti #5801)
+- 4 missing PRs discovered and added (Peter kernel-node #30, Razor bitcointranscripts #612, Psychemist rust-lightning #4293, Vaan bdk-cli #224 & #208)
+- 3 new open PRs added (Chaitika #88 Tor/Orbot, #76 persist birth height; Peter kernel-node #32)
+- **Merged count now 45+ (up from 30+)**
+
 ### Week 2 (May 13) — Major PR Dashboard Update
 - **PR Dashboard updated** — 75+ PRs now tracked across 25+ Bitcoin projects (up from 18+), 30+ merged (up from 12+)
 - **alexgrad42 (Gradale) added as active contributor** — 6 PRs to rust-bitcoin (#6125 merged), hex-conservative (#245 merged), and rust-lightning/LDK (#4589)
