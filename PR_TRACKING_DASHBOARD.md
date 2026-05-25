@@ -182,7 +182,7 @@ These PRs were submitted but closed without merge — still valuable learning an
 
 ### May 2026 (Week 2 — May 13)
 - **NEW CONTRIBUTOR:** Gradale added with 6 PRs — rust-bitcoin (#6125 merged), hex-conservative (#245 merged, #247 open), plus 3 closed PRs
-- **Chaitika:** 11 merged PRs in 2026 across silent-pay-wallet, silent-pay-indexer, and Bitshala LN assignments
+- **Chaitika:** 11 PRs in 2026 (9 merged, 2 under review) across silent-pay-wallet, silent-pay-indexer, and Bitshala LN assignments
 - **Vaan:** 14 PRs across 7 projects — rust-payjoin, bdk-cli, bdk_wallet, rust-bitcoin, esplora-cli, payjoin.org
 - **Razor:** peer-observer (anomaly detection with Prometheus, eBPF extractor), corepc, bitcointranscripts, bip324-mitm (new project)
 - **Peter:** Bitcoin Core (#34885), kernel-node (Silent Payments integration), rust-bitcoinkernel, rust-bitcoin P2P work
