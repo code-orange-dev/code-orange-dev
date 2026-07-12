@@ -206,7 +206,7 @@ We equip communities with practical Bitcoin payment infrastructure for everyday 
 | Community leaders trained via train-the-trainer | 30 by end of 2026 |
 | Additional full Bitcoin nodes deployed | 21,000 by 2030 |
 | Gig economy jobs created (train-the-trainer) | 15 part-time educator roles |
-| Bitcoin Houses launched across Southeast Asia | 10 by end of 2027 |
+| Bitcoin Houses launched across Southeast Asia | 10 by end of 2026 |
 
 Every graduate who runs a full node, submits a pull request, or teaches another Bitcoiner represents a direct, measurable strengthening of Bitcoin's open-source network.
 
