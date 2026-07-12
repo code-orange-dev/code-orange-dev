@@ -5,7 +5,7 @@
 
 ![PRs merged](https://img.shields.io/badge/PRs_merged-96-brightgreen) ![PRs opened](https://img.shields.io/badge/PRs_opened-135%2B-blue) ![Active contributors](https://img.shields.io/badge/active_contributors-16-orange) ![Projects](https://img.shields.io/badge/Bitcoin_projects-30%2B-yellow) ![Countries](https://img.shields.io/badge/countries-8-lightgrey) ![License](https://img.shields.io/badge/license-CC0-black)
 
-*Last updated: June 2026 · [Live PR dashboard →](https://github.com/code-orange-dev/PR-tracking-dashboard)*
+*Last updated: July 2026 · [Live PR dashboard →](https://github.com/code-orange-dev/PR-tracking-dashboard)*
 
 ---
 
