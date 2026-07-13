@@ -1,4 +1,4 @@
-# Code Orange Dev School — PR Tracking Dashboard
+# Code Orange Dev School - PR Tracking Dashboard
 
 > **Tracking every pull request by Code Orange community members to Bitcoin open-source projects.**
 >
@@ -28,7 +28,7 @@
 | 3 | Peter | [@pzafonte](https://github.com/pzafonte) | [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) | [#5917](https://github.com/rust-bitcoin/rust-bitcoin/pull/5917) | p2p: add BlockLocator newtype with logarithmic build method | Apr 2026 | Merged |
 | 4 | Peter | [@pzafonte](https://github.com/pzafonte) | [rust-bitcoinkernel](https://github.com/sedited/rust-bitcoinkernel) | [#164](https://github.com/sedited/rust-bitcoinkernel/pull/164) | feat(core): expose BlockTreeEntry::ancestor | Apr 2026 | Merged |
 | 5 | Peter | [@pzafonte](https://github.com/pzafonte) | [kernel-node](https://github.com/kernel-node/kernel-node) | [#30](https://github.com/kernel-node/kernel-node/pull/30) | feat: add logarithmic block locators for getheaders and getblocks | Mar 2026 | Merged |
-| 6 | Chaitika | [@chaitika](https://github.com/chaitika) | [silent-pay-wallet](https://github.com/Bitshala-Incubator/silent-pay-wallet) | [#93](https://github.com/Bitshala-Incubator/silent-pay-wallet/pull/93) | Clean repo — root file cleanup | May 2026 | Merged |
+| 6 | Chaitika | [@chaitika](https://github.com/chaitika) | [silent-pay-wallet](https://github.com/Bitshala-Incubator/silent-pay-wallet) | [#93](https://github.com/Bitshala-Incubator/silent-pay-wallet/pull/93) | Clean repo - root file cleanup | May 2026 | Merged |
 | 7 | Chaitika | [@chaitika](https://github.com/chaitika) | [silent-pay-wallet](https://github.com/Bitshala-Incubator/silent-pay-wallet) | [#89](https://github.com/Bitshala-Incubator/silent-pay-wallet/pull/89) | Remove BIP47 payment codes | Apr 2026 | Merged |
 | 8 | Chaitika | [@chaitika](https://github.com/chaitika) | [silent-pay-wallet](https://github.com/Bitshala-Incubator/silent-pay-wallet) | [#86](https://github.com/Bitshala-Incubator/silent-pay-wallet/pull/86) | Remove Apple platform features | Apr 2026 | Merged |
 | 9 | Chaitika | [@chaitika](https://github.com/chaitika) | [silent-pay-wallet](https://github.com/Bitshala-Incubator/silent-pay-wallet) | [#83](https://github.com/Bitshala-Incubator/silent-pay-wallet/pull/83) | Remove Multisig wallet support | Apr 2026 | Merged |
@@ -66,12 +66,12 @@
 | 41 | Psychemist | [@psychemist](https://github.com/psychemist) | [mastering-taproot](https://github.com/aaron-recompile/mastering-taproot) | [#23](https://github.com/aaron-recompile/mastering-taproot/pull/23) | Fix Schnorr tweak logic (BIP341) | Feb 2026 | Merged |
 | 42 | Psychemist | [@psychemist](https://github.com/psychemist) | [mastering-taproot](https://github.com/aaron-recompile/mastering-taproot) | [#22](https://github.com/aaron-recompile/mastering-taproot/pull/22) | Correct transaction visualizations | Feb 2026 | Merged |
 | 43 | Psychemist | [@psychemist](https://github.com/psychemist) | [rust-lightning (LDK)](https://github.com/lightningdevkit/rust-lightning) | [#4293](https://github.com/lightningdevkit/rust-lightning/pull/4293) | Change Bolt11Invoice payment_hash function return type | Jan 2025 | Merged |
-| 44 | Diegodev | [@0xlaga](https://github.com/0xlaga) | [gossip-observer](https://github.com/0xlaga) | — | Gossip observer contributions | 2025 | Merged |
-| 45 | Bunny Rolling Dice | [@rollingdice](https://github.com/rollingdice) | [BlueWallet](https://github.com/BlueWallet/BlueWallet) | — | Bahasa Indonesia translation | 2025 | Merged |
-| 46 | Muhammad | [@muhahahmad68](https://github.com/muhahahmad68) | [SurrealDB](https://github.com/surrealdb/surrealdb) | — | OSS contribution in Rust (non-Bitcoin, demonstrating capability) | 2025 | Merged |
-| 47 | Dayvvo | [@dayvvo](https://github.com/dayvvo) | [getalby/js-sdk](https://github.com/getalby/js-sdk) | — | Alby JS SDK contribution | 2025 | Merged |
-| 48 | Dayvvo | [@dayvvo](https://github.com/dayvvo) | [getalby/bitcoin-connect](https://github.com/getalby/bitcoin-connect) | — | Alby Bitcoin Connect contribution | 2025 | Merged |
-| 49 | Dayvvo | [@dayvvo](https://github.com/dayvvo) | [cashu-ts](https://github.com/cashubtc/cashu-ts) | — | Cashu TypeScript library contribution | 2025 | Merged |
+| 44 | Diegodev | [@0xlaga](https://github.com/0xlaga) | [gossip-observer](https://github.com/0xlaga) | - | Gossip observer contributions | 2025 | Merged |
+| 45 | Bunny Rolling Dice | [@rollingdice](https://github.com/rollingdice) | [BlueWallet](https://github.com/BlueWallet/BlueWallet) | - | Bahasa Indonesia translation | 2025 | Merged |
+| 46 | Muhammad | [@muhahahmad68](https://github.com/muhahahmad68) | [SurrealDB](https://github.com/surrealdb/surrealdb) | - | OSS contribution in Rust (non-Bitcoin, demonstrating capability) | 2025 | Merged |
+| 47 | Dayvvo | [@dayvvo](https://github.com/dayvvo) | [getalby/js-sdk](https://github.com/getalby/js-sdk) | - | Alby JS SDK contribution | 2025 | Merged |
+| 48 | Dayvvo | [@dayvvo](https://github.com/dayvvo) | [getalby/bitcoin-connect](https://github.com/getalby/bitcoin-connect) | - | Alby Bitcoin Connect contribution | 2025 | Merged |
+| 49 | Dayvvo | [@dayvvo](https://github.com/dayvvo) | [cashu-ts](https://github.com/cashubtc/cashu-ts) | - | Cashu TypeScript library contribution | 2025 | Merged |
 
 ---
 
@@ -85,7 +85,7 @@
 | 4 | Vaan | [@va-an](https://github.com/va-an) | [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) | [#5951](https://github.com/rust-bitcoin/rust-bitcoin/pull/5951) | p2p: optional fields in version message | Open |
 | 5 | Vaan | [@va-an](https://github.com/va-an) | [bdk-cli](https://github.com/bitcoindevkit/bdk-cli) | [#225](https://github.com/bitcoindevkit/bdk-cli/pull/225) | feat(compile): compile taproot descriptor with randomized unspendable internal key | Open |
 | 6 | Razor | [@RazorBest](https://github.com/RazorBest) | [peer-observer](https://github.com/peer-observer/peer-observer) | [#400](https://github.com/peer-observer/peer-observer/pull/400) | Generic anomaly detection with Prometheus | Draft |
-| 7 | Razor | [@RazorBest](https://github.com/RazorBest) | [bip324-mitm](https://github.com/RazorBest/bip324-mitm) | [View repo](https://github.com/RazorBest/bip324-mitm) | BIP324 MITM tool — state machine + protocol error handling | Active development |
+| 7 | Razor | [@RazorBest](https://github.com/RazorBest) | [bip324-mitm](https://github.com/RazorBest/bip324-mitm) | [View repo](https://github.com/RazorBest/bip324-mitm) | BIP324 MITM tool - state machine + protocol error handling | Active development |
 | 8 | Peter | [@pzafonte](https://github.com/pzafonte) | [kernel-node](https://github.com/kernel-node/kernel-node) | [#50](https://github.com/kernel-node/kernel-node/pull/50) | Silent Payments: integrate SPDK scanning and wallet IPC | Draft |
 | 9 | Peter | [@pzafonte](https://github.com/pzafonte) | [rust-bitcoinkernel](https://github.com/sedited/rust-bitcoinkernel) | [#177](https://github.com/sedited/rust-bitcoinkernel/pull/177) | feat(core): expose Block::check_context_free | Draft |
 | 10 | Peter | [@pzafonte](https://github.com/pzafonte) | [kernel-node](https://github.com/kernel-node/kernel-node) | [#32](https://github.com/kernel-node/kernel-node/pull/32) | feat: add PeerManager with multi-peer IBD and per-peer stall detection | Open |
@@ -97,7 +97,7 @@
 
 ## Closed Pull Requests (Not Merged)
 
-These PRs were submitted but closed without merge — still valuable learning and contribution attempts.
+These PRs were submitted but closed without merge - still valuable learning and contribution attempts.
 
 | # | Developer | GitHub | Project | PR Link | Description | Status |
 |---|-----------|--------|---------|---------|-------------|--------|
@@ -169,25 +169,25 @@ These PRs were submitted but closed without merge — still valuable learning an
 
 ## Monthly Tracking Log
 
-### May 2026 (Week 3 Update — May 14)
+### May 2026 (Week 3 Update - May 14)
 - **Cross-checked every PR against live GitHub data.** Major corrections:
-  - **9 PRs moved from "Open" to "Merged"** — Peter (#34885 Bitcoin Core!, #5968, #5917, #164), Vaan (#1554), Arowolo (#1498, #1457), Psychemist (#24, #31)
-  - **9 PRs moved to new "Closed" section** — Gradale (#6131, #6112, #4589), Vaan (#916, #311, #240), Psychemist (#25, #26), Mwihoti (#5801)
-  - **4 missing PRs added** — Peter kernel-node #30 (merged), Razor bitcointranscripts #612 (merged), Psychemist rust-lightning #4293 (merged), Vaan bdk-cli #224, #208 (merged)
-  - **3 new open PRs added** — Chaitika #88 (Tor/Orbot), #76 (persist birth height), Peter kernel-node #32 (PeerManager)
-- **Peter's Bitcoin Core PR #34885 confirmed MERGED into bitcoin:master** — huge milestone
-- **Arowolo's 2 rust-payjoin PRs both merged** — now has 2 merged contributions
+  - **9 PRs moved from "Open" to "Merged"** - Peter (#34885 Bitcoin Core!, #5968, #5917, #164), Vaan (#1554), Arowolo (#1498, #1457), Psychemist (#24, #31)
+  - **9 PRs moved to new "Closed" section** - Gradale (#6131, #6112, #4589), Vaan (#916, #311, #240), Psychemist (#25, #26), Mwihoti (#5801)
+  - **4 missing PRs added** - Peter kernel-node #30 (merged), Razor bitcointranscripts #612 (merged), Psychemist rust-lightning #4293 (merged), Vaan bdk-cli #224, #208 (merged)
+  - **3 new open PRs added** - Chaitika #88 (Tor/Orbot), #76 (persist birth height), Peter kernel-node #32 (PeerManager)
+- **Peter's Bitcoin Core PR #34885 confirmed MERGED into bitcoin:master** - huge milestone
+- **Arowolo's 2 rust-payjoin PRs both merged** - now has 2 merged contributions
 - Merged PRs now 45+ (up from 30+)
 - Added "Closed Pull Requests" section for transparency
 
-### May 2026 (Week 2 — May 13)
-- **NEW CONTRIBUTOR:** Gradale added with 6 PRs — rust-bitcoin (#6125 merged), hex-conservative (#245 merged, #247 open), plus 3 closed PRs
+### May 2026 (Week 2 - May 13)
+- **NEW CONTRIBUTOR:** Gradale added with 6 PRs - rust-bitcoin (#6125 merged), hex-conservative (#245 merged, #247 open), plus 3 closed PRs
 - **Chaitika:** 11 PRs in 2026 (9 merged, 2 under review) across silent-pay-wallet, silent-pay-indexer, and Bitshala LN assignments
-- **Vaan:** 14 PRs across 7 projects — rust-payjoin, bdk-cli, bdk_wallet, rust-bitcoin, esplora-cli, payjoin.org
+- **Vaan:** 14 PRs across 7 projects - rust-payjoin, bdk-cli, bdk_wallet, rust-bitcoin, esplora-cli, payjoin.org
 - **Razor:** peer-observer (anomaly detection with Prometheus, eBPF extractor), corepc, bitcointranscripts, bip324-mitm (new project)
 - **Peter:** Bitcoin Core (#34885), kernel-node (Silent Payments integration), rust-bitcoinkernel, rust-bitcoin P2P work
 - **Psychemist:** saving-satoshi-script (OP_CHECKSIGADD), bitcointranscripts, mastering-taproot, devkit-wallet, rust-lightning
-- **Arowolo:** 2 PRs to rust-payjoin (#1498, #1457) — both merged
+- **Arowolo:** 2 PRs to rust-payjoin (#1498, #1457) - both merged
 - Active contributors: 13
 
 ### May 2026 (Week 1)
