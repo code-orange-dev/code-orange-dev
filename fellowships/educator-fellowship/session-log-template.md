@@ -2,7 +2,7 @@
 
 > **Log within 48 hours.** Memory decays fast and month-end reconstruction is where accuracy dies.
 >
-> Keep one running file per month at `fellowships/logs/<your-handle>/YYYY-MM.md` and append each session. Do not open a PR per session — one PR at month end with the whole log is fine.
+> Keep one running file per month at `fellowships/logs/<your-handle>/YYYY-MM.md` and append each session. Do not open a PR per session - one PR at month end with the whole log is fine.
 
 ---
 
@@ -11,7 +11,7 @@
 Copy this block for each session.
 
 ```markdown
-### YYYY-MM-DD — <Session title>
+### YYYY-MM-DD - <Session title>
 
 - **Type:** Cohort / Workshop / Meetup / Train-the-trainer / 1:1 / Talk
 - **Credits:** 1.0
@@ -19,7 +19,7 @@ Copy this block for each session.
 - **Attendees:** 6 (4 returning, 2 new)
 - **Location:** Bitcoin House Bali / Discord / etc.
 - **Language:** English / Bahasa Indonesia / etc.
-- **Curriculum:** Bitcoin Dojo wk3 <!-- link to the track --> — or "custom"
+- **Curriculum:** Bitcoin Dojo wk3 <!-- link to the track --> - or "custom"
 
 **What we covered:**
 <!-- Two or three lines. Enough that someone else could pick up where you left off. -->
@@ -37,11 +37,11 @@ Copy this block for each session.
 
 ## What counts as evidence
 
-One of these per session. Nobody is auditing you aggressively — this exists so the public record is credible when we point funders at it.
+One of these per session. Nobody is auditing you aggressively - this exists so the public record is credible when we point funders at it.
 
 | Session type | Acceptable evidence |
 |---|---|
-| In-person | A photo of the room. Faces not required — a wide shot of people at laptops is fine. |
+| In-person | A photo of the room. Faces not required - a wide shot of people at laptops is fine. |
 | Online | Screenshot of the participant list, or the recording link |
 | Cohort | The shared doc, repo, or Discord thread for that week |
 | 1:1 | The agenda or notes, with the participant's handle |
@@ -69,7 +69,7 @@ One of these per session. Nobody is auditing you aggressively — this exists so
 ## Edge cases
 
 **Session ran but only 2 people showed up (minimum is 3).**
-Log it at half credit and note what happened. Do not silently drop it — low-attendance sessions are useful signal about timing, promotion or topic.
+Log it at half credit and note what happened. Do not silently drop it - low-attendance sessions are useful signal about timing, promotion or topic.
 
 **Ran 3 hours instead of 90 minutes.**
 Still 1.0 credit. Credits are per session, not per hour. Long sessions are their own reward.
@@ -78,7 +78,7 @@ Still 1.0 credit. Credits are per session, not per hour. Long sessions are their
 Split the credit, or take the full credit if you did the prep and your co-facilitator was shadowing. Note the arrangement.
 
 **Someone else ran a session using your materials.**
-Not your credit — but absolutely worth noting in the monthly report. That is the curriculum doing its job, and it is the strongest possible argument for renewing your fellowship.
+Not your credit - but absolutely worth noting in the monthly report. That is the curriculum doing its job, and it is the strongest possible argument for renewing your fellowship.
 
 **Recurring session, same content, different group.**
 Full credit each time. Teaching the same thing to a new room is the whole job.

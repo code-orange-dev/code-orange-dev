@@ -1,8 +1,8 @@
-# Educator Fellowship — Monthly Report
+# Educator Fellowship - Monthly Report
 
 > **How to use:** copy this file to `fellowships/reports/<your-github-handle>/YYYY-MM.md`, fill it in, open a PR. Due the **5th** of the following month.
 >
-> Target length: 15 minutes to write. If it is taking an hour, you are over-writing it — the session log already holds the detail.
+> Target length: 15 minutes to write. If it is taking an hour, you are over-writing it - the session log already holds the detail.
 
 ---
 
@@ -31,7 +31,7 @@
 
 ## 2. Outcomes
 
-> The quarterly target is 2+ participants reaching a milestone. Log them as they happen — do not save them for the end of the quarter.
+> The quarterly target is 2+ participants reaching a milestone. Log them as they happen - do not save them for the end of the quarter.
 
 | Participant | Milestone reached | Link / evidence |
 |---|---|---|
@@ -47,7 +47,7 @@
 <!--
 Two or three sentences. Specific beats general.
 
-Good: "Splitting week 4 into two shorter sessions fixed the drop-off — everyone who
+Good: "Splitting week 4 into two shorter sessions fixed the drop-off - everyone who
 started week 4 finished it, versus 3 of 8 last cohort."
 
 Less useful: "The session went well and people were engaged."

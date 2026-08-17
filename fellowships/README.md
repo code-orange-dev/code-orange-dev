@@ -14,8 +14,8 @@ A fellowship buys that runway.
 |---|---|---|
 | **You are** | Someone who can teach and organise | Someone who can ship code |
 | **You do** | Run study cohorts, workshops, meetups | Contribute to a Bitcoin open-source project |
-| **Commitment** | 8 session credits per month | ~15–20 hours per week |
-| **Stipend** | **$256/month** in Bitcoin | See track README |
+| **Commitment** | 8 session credits per month | ~15-20 hours per week |
+| **Stipend** | **$256/month** in Bitcoin | **$512/month** in Bitcoin |
 | **Term** | 6 months, renewable | 6 months, renewable |
 | **Exit outcome** | Running your own sustainable cohort or hub | Grant-ready with a public contribution record |
 | **Full details** | **[Educator Fellowship →](./educator-fellowship/)** | **[Developer Fellowship →](./developer-fellowship/)** |
@@ -50,7 +50,7 @@ This is the same loop that produced our current numbers: 21 Bitcoin Dojo graduat
 
 These apply to both tracks. If a rule elsewhere in these documents contradicts one of these, the principle wins.
 
-**1. Public by default.** Every fellow's work is visible — session logs, PRs, monthly reports, materials. Nothing here is confidential. A fellowship is partly a public credential, and it only works as one if the record is public.
+**1. Public by default.** Every fellow's work is visible - session logs, PRs, monthly reports, materials. Nothing here is confidential. A fellowship is partly a public credential, and it only works as one if the record is public.
 
 **2. Proof of work, not proof of hours.** We do not track your time. We track what exists in the world that did not exist before: sessions run, people taught, PRs opened, reviews given, docs written.
 
@@ -66,14 +66,14 @@ These apply to both tracks. If a rule elsewhere in these documents contradicts o
 
 ## How to apply
 
-1. Read the track README in full — [Educator](./educator-fellowship/) or [Developer](./developer-fellowship/).
+1. Read the track README in full - [Educator](./educator-fellowship/) or [Developer](./developer-fellowship/).
 2. Copy the relevant application template:
    - [Educator application](./educator-fellowship/application.md)
    - [Developer application](./developer-fellowship/application.md)
 3. Open a pull request against this repo adding your filled-in application at `fellowships/applications/<your-github-handle>.md`, **or** send it in the `#fellowships` channel on [Discord](https://discord.gg/xd6dmPF9bA) if you would rather not apply in public.
 4. We respond within 14 days. Shortlisted applicants get a 30-minute call.
 
-Applying by pull request is not a gimmick. If you cannot open a PR against a markdown file, the Developer Fellowship will be painful — and the [Bitcoin Dojo](https://github.com/code-orange-dev/curriculum/tree/main/bitcoin-dojo) cohort is a better first step. For the Educator Fellowship, we will happily accept your application over Discord and teach you the PR workflow later.
+Applying by pull request is not a gimmick. If you cannot open a PR against a markdown file, the Developer Fellowship will be painful - and the [Bitcoin Dojo](https://github.com/code-orange-dev/curriculum/tree/main/bitcoin-dojo) cohort is a better first step. For the Educator Fellowship, we will happily accept your application over Discord and teach you the PR workflow later.
 
 ---
 
@@ -83,7 +83,7 @@ Neither track selects on credentials. We have funded people with no degree and t
 
 **Both tracks:**
 - Evidence you finish things. One completed small project beats five abandoned ambitious ones.
-- Evidence you can work in public — asking questions where others can see, taking review feedback without ego.
+- Evidence you can work in public - asking questions where others can see, taking review feedback without ego.
 - A reason to care about Bitcoin specifically that is not price.
 
 **Educator track additionally:**
@@ -91,16 +91,16 @@ Neither track selects on credentials. We have funded people with no degree and t
 - You are embedded in, or can credibly build, a local community.
 
 **Developer track additionally:**
-- Code we can read. A GitHub profile, a project, an exercise repo — anything.
+- Code we can read. A GitHub profile, a project, an exercise repo - anything.
 - At least one merged pull request somewhere, in any language, on any project. It does not need to be Bitcoin.
 
 ---
 
 ## Shared documents
 
-- **[Evaluation rubric](./shared/evaluation-rubric.md)** — exactly how fellows are assessed at month 3 and month 6
-- **[Payment and reporting](./shared/payment-and-reporting.md)** — how stipends are calculated, paid, and what happens when a month falls short
-- **[FAQ](./shared/faq.md)** — the questions people actually ask
+- **[Evaluation rubric](./shared/evaluation-rubric.md)** - exactly how fellows are assessed at month 3 and month 6
+- **[Payment and reporting](./shared/payment-and-reporting.md)** - how stipends are calculated, paid, and what happens when a month falls short
+- **[FAQ](./shared/faq.md)** - the questions people actually ask
 
 ---
 
@@ -108,7 +108,7 @@ Neither track selects on credentials. We have funded people with no degree and t
 
 | Fellow | Track | Started | Focus | Reports |
 |---|---|---|---|---|
-| *Open* | — | — | — | — |
+| *Open* | - | - | - | - |
 
 *Applications open. This table is updated as fellows join.*
 
@@ -118,15 +118,15 @@ Neither track selects on credentials. We have funded people with no degree and t
 
 We built this by studying what works elsewhere and stealing shamelessly. Credit where it is due:
 
-- **[Btrust Builders](https://blog.btrust.tech/introducing-the-2026-btrust-builders-program/)** — the proof-of-work database and the "grant-ready by graduation" framing
-- **[Chaincode Labs](https://chaincode.com/) / [BOSS Challenge](https://learning.chaincode.com/)** — structured monthly progression with active-contributor mentorship
-- **[Bitshala](https://bitshala.org/cohorts/)** — study cohorts as the unit of community, and weekly written assignments
-- **[Vinteum](https://vinteum.org/)** — regional developer residency model
-- **[Summer of Bitcoin](https://www.summerofbitcoin.org/)** — mentor matching and structured project selection
-- **[Base58](https://base58.school/)** — practical, production-focused technical teaching
+- **[Btrust Builders](https://blog.btrust.tech/introducing-the-2026-btrust-builders-program/)** - the proof-of-work database and the "grant-ready by graduation" framing
+- **[Chaincode Labs](https://chaincode.com/) / [BOSS Challenge](https://learning.chaincode.com/)** - structured monthly progression with active-contributor mentorship
+- **[Bitshala](https://bitshala.org/cohorts/)** - study cohorts as the unit of community, and weekly written assignments
+- **[Vinteum](https://vinteum.org/)** - regional developer residency model
+- **[Summer of Bitcoin](https://www.summerofbitcoin.org/)** - mentor matching and structured project selection
+- **[Base58](https://base58.school/)** - practical, production-focused technical teaching
 
 If you run a program like this and want to compare notes or share fellows, open an issue.
 
 ---
 
-*Code Orange Dev School — Canggu, Bali. [codeorange.dev](https://codeorange.dev) · [Discord](https://discord.gg/xd6dmPF9bA) · [@codeorangedevs](https://x.com/codeorangedevs)*
+*Code Orange Dev School - Singapore. [codeorange.dev](https://codeorange.dev) · [Discord](https://discord.gg/xd6dmPF9bA) · [@codeorangedevs](https://x.com/codeorangedevs)*

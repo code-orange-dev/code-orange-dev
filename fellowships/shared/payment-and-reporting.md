@@ -2,7 +2,7 @@
 
 How stipends are calculated and paid, and what happens when a month falls short.
 
-> **Note for Code:** several items below are marked ⚠️ and need your decision before this page goes public. Everything unmarked is a sensible default you can keep or change.
+> Two items below are marked ⚠️ and are not yet settled: the Apprentice and Lead Educator rates, and the BTC conversion reference. Everything else is final.
 
 ---
 
@@ -13,7 +13,7 @@ How stipends are calculated and paid, and what happens when a month falls short.
 | **Educator Fellow** | **$256** | 8 session credits/month, averaged quarterly |
 | Apprentice Educator | ⚠️ *to be set* | 4 credits/month |
 | Lead Educator | ⚠️ *to be set* | 8 credits + track ownership + mentoring |
-| **Developer Fellow** | ⚠️ *to be set* | ~15–20 hours/week |
+| **Developer Fellow** | **$512** | ~15-20 hours/week |
 
 Amounts are denominated in **USD and paid in Bitcoin**. The USD figure is the fixed obligation; the sat amount varies with the rate.
 
@@ -29,17 +29,17 @@ Amounts are denominated in **USD and paid in Bitcoin**. The USD figure is the fi
 
 Pick one reference and never change it mid-term. Ambiguity here is how goodwill gets destroyed.
 
-**Rails:** ⚠️ *Needs your decision.* Options:
+**Rails: your choice.** Pick whichever suits you, and change it whenever you like - just tell us before the 5th so it applies to that month's payment.
 
-| Rail | Good for | Watch out for |
+| Rail | Good for | Worth knowing |
 |---|---|---|
-| **Lightning** | Fast, cheap, fits the ethos | $256 needs adequate channel liquidity — and small-payment routing can be fiddly |
-| **On-chain** | Reliable at this size, no liquidity concerns | Fees, confirmation wait |
-| **eCash (Fedimint)** | Regionally practical given Bitcoin Indonesia's federation | Requires fellow to be in the federation |
+| **Lightning** | Fast, cheap, no waiting | Needs enough inbound liquidity to receive $256-512 in one payment. Check before your first invoice. |
+| **On-chain** | Reliable at any size, nothing to configure | Mining fee, and you wait for confirmations |
+| **eCash (Fedimint / Cashu)** | Practical regionally - Bitcoin Indonesia's federation is [10,000-20,000 members](https://www.fedi.xyz/blog/community-spotlight-bitcoin-indonesia) | You are trusting the federation's guardians. Sweep to self-custody if you are holding. |
 
-Most programs at this size use on-chain monthly, or Lightning with an on-chain fallback. Whatever you choose, state it in the offer so fellows can prepare a receiving setup.
+No rail is treated as more legitimate than another. If you are unsure, on-chain is the boring reliable default and nobody will think less of you for it.
 
-**Fellows provide the address.** Confirm it in each monthly report. Address changes must be confirmed over a second channel before payment — a compromised Discord account should never redirect a stipend.
+**Fellows provide the address.** Confirm it in each monthly report. Address changes must be confirmed over a second channel before payment - a compromised Discord account should never redirect a stipend.
 
 **No invoicing.** The monthly report is the invoice.
 
@@ -67,7 +67,7 @@ The honest version, because vagueness here is worse than strictness.
 
 ### Educator credits
 
-Credits average **quarterly** — 24 per quarter, not 8 every month. This is deliberate: travel, illness, Ramadan, exam season and family emergencies are normal.
+Credits average **quarterly** - 24 per quarter, not 8 every month. This is deliberate: travel, illness, Ramadan, exam season and family emergencies are normal.
 
 | Situation | Outcome |
 |---|---|
@@ -85,7 +85,7 @@ Not measured in units, because open-source does not work that way. A month spent
 
 What we need is **communication**. Standups posted, report submitted, honest about the state of things. A fellow who reports "I got nothing merged, here is what I was stuck on and what I am trying next" is in good standing.
 
-A fellow who goes quiet for three weeks is not — not because of the output, but because we cannot help someone who is invisible.
+A fellow who goes quiet for three weeks is not - not because of the output, but because we cannot help someone who is invisible.
 
 ---
 
@@ -95,7 +95,7 @@ Life happens. Fellowships can pause for up to **2 months** and resume where they
 
 - Tell us before the pause where possible
 - No payment during a pause
-- Term extends by the pause length — a 6-month fellowship paused for 1 month runs 7 months
+- Term extends by the pause length - a 6-month fellowship paused for 1 month runs 7 months
 - No penalty, no explanation required
 
 Pausing is always better than quietly disappearing. Every fellow who has vanished mid-term would have been welcome back if they had said "I need two months."
@@ -106,7 +106,7 @@ Pausing is always better than quietly disappearing. Every fellow who has vanishe
 
 **Fellow-initiated:** tell us, we pay for the month worked, no hard feelings. You keep everything you built. A reference is still available if the work was good.
 
-**Code Orange-initiated:** only after the escalation sequence in the [rubric](./evaluation-rubric.md) — concern named, conversation had, adjustment tried. Final month paid in full regardless.
+**Code Orange-initiated:** only after the escalation sequence in the [rubric](./evaluation-rubric.md) - concern named, conversation had, adjustment tried. Final month paid in full regardless.
 
 **Immediate termination:** only for a Code of Conduct breach. Handled separately.
 
@@ -120,7 +120,7 @@ All reports and logs are **public in this repo**. Applying means accepting that.
 
 **Adjustments available on request:**
 
-- Attendee names can be handles, initials or omitted — counts are what matter
+- Attendee names can be handles, initials or omitted - counts are what matter
 - No photograph of any person without their explicit consent, every time
 - If your location or Bitcoin involvement creates real personal risk, tell us. We will find a private arrangement. This is a legitimate concern in several jurisdictions our community spans and asking for it counts against you in no way whatsoever.
 

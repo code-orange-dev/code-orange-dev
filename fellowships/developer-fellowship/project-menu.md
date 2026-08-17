@@ -1,14 +1,14 @@
-# Project Menu — Developer Fellowship
+# Project Menu - Developer Fellowship
 
 Codebases where Code Orange contributors are **already active**. That matters more than it sounds: it means when you get stuck, someone in Discord has been stuck on the same thing.
 
-You are not limited to this list. If you want to work on something else, make the case in your application — the only real requirement is that the project is open source, Bitcoin-related, and actually accepts outside contributions.
+You are not limited to this list. If you want to work on something else, make the case in your application - the only real requirement is that the project is open source, Bitcoin-related, and actually accepts outside contributions.
 
 **Difficulty** is about how hard it is to land your first PR, not how hard the code is.
 
 ---
 
-## 🦀 Rust — best entry point for most fellows
+## 🦀 Rust - best entry point for most fellows
 
 The Rust Bitcoin ecosystem has the friendliest review culture in Bitcoin open-source, good first issues that are genuinely first issues, and maintainers who respond in days rather than months. If you are unsure, start here.
 
@@ -16,7 +16,7 @@ The Rust Bitcoin ecosystem has the friendliest review culture in Bitcoin open-so
 |---|---|---|---|
 | **[rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)** | The foundational Bitcoin library in Rust | 🟢 Approachable | Types, correctness, API design |
 | **[rust-payjoin](https://github.com/payjoin/rust-payjoin)** | Payjoin (BIP77/78) implementation | 🟡 Moderate | Privacy protocols, real-world wallet integration |
-| **[BDK](https://github.com/bitcoindevkit/bdk)** | Bitcoin Dev Kit — wallet library | 🟡 Moderate | Wallets, descriptors, coin selection |
+| **[BDK](https://github.com/bitcoindevkit/bdk)** | Bitcoin Dev Kit - wallet library | 🟡 Moderate | Wallets, descriptors, coin selection |
 | **[LDK](https://github.com/lightningdevkit/rust-lightning)** | Lightning Dev Kit | 🔴 Hard | Lightning internals, state machines |
 | **[ldk-node](https://github.com/lightningdevkit/ldk-node)** | Batteries-included Lightning node | 🟡 Moderate | Making hard things usable |
 | **[rust-miniscript](https://github.com/rust-bitcoin/rust-miniscript)** | Miniscript implementation | 🔴 Hard | Script analysis, formal reasoning |
@@ -26,9 +26,9 @@ The Rust Bitcoin ecosystem has the friendliest review culture in Bitcoin open-so
 
 ---
 
-## ⚙️ C++ — Bitcoin Core and around it
+## ⚙️ C++ - Bitcoin Core and around it
 
-Highest prestige, slowest feedback loop. A Core PR can sit for months. Real, but a hard place to build early momentum — most fellows do better landing a few Rust PRs first and coming to Core in month 3 or 4.
+Highest prestige, slowest feedback loop. A Core PR can sit for months. Real, but a hard place to build early momentum - most fellows do better landing a few Rust PRs first and coming to Core in month 3 or 4.
 
 | Project | What it is | Difficulty | Good if you like |
 |---|---|---|---|
@@ -44,12 +44,12 @@ Highest prestige, slowest feedback loop. A Core PR can sit for months. Real, but
 
 | Project | What it is | Difficulty | Good if you like |
 |---|---|---|---|
-| **[Core Lightning](https://github.com/ElementsProject/lightning)** | C implementation of Lightning | 🔴 Hard | Plugins are a soft entry — write one |
+| **[Core Lightning](https://github.com/ElementsProject/lightning)** | C implementation of Lightning | 🔴 Hard | Plugins are a soft entry - write one |
 | **[Fedimint](https://github.com/fedimint/fedimint)** | Federated eCash | 🟡 Moderate | Federations, community custody |
 | **[Cashu](https://github.com/cashubtc)** | Chaumian eCash protocol | 🟢 Approachable | Blind signatures, small codebases |
 | **[BTCPay Server](https://github.com/btcpayserver/btcpayserver)** | Self-hosted payment processor | 🟢 Approachable | C#, merchant tooling, product work |
 
-Fedimint and Cashu matter regionally: Bitcoin Indonesia's Fedimint federation is [estimated at 10,000–20,000 members](https://www.fedi.xyz/blog/community-spotlight-bitcoin-indonesia). Work here has users nearby.
+Fedimint and Cashu matter regionally: Bitcoin Indonesia's Fedimint federation is [estimated at 10,000-20,000 members](https://www.fedi.xyz/blog/community-spotlight-bitcoin-indonesia). Work here has users nearby.
 
 ---
 
@@ -84,8 +84,8 @@ Contributing to Bitcoin Core is a legitimate ambition and one of our contributor
 
 If Core is your goal, the path that actually works:
 
-1. Land 2–3 PRs in rust-bitcoin or BDK first — learn Bitcoin's semantics with fast feedback
-2. Start reviewing and testing Core PRs — contribution without waiting on your own PR
+1. Land 2-3 PRs in rust-bitcoin or BDK first - learn Bitcoin's semantics with fast feedback
+2. Start reviewing and testing Core PRs - contribution without waiting on your own PR
 3. Fix something small and real that you found yourself
 4. Then attempt something substantive
 

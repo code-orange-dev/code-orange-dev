@@ -1,8 +1,8 @@
-# Developer Fellowship — Application
+# Developer Fellowship - Application
 
 > Copy to `fellowships/applications/<your-github-handle>.md` and open a PR against this repo.
 >
-> Opening the PR is part of the application. If the git workflow is unfamiliar, that is a signal you should do a [cohort](https://github.com/code-orange-dev/curriculum) first — and that is a perfectly good outcome, not a rejection.
+> Opening the PR is part of the application. If the git workflow is unfamiliar, that is a signal you should do a [cohort](https://github.com/code-orange-dev/curriculum) first - and that is a perfectly good outcome, not a rejection.
 >
 > **Write it yourself.** Rough and honest beats polished and generated, every time.
 
@@ -41,7 +41,7 @@ assess it.
 Pick from the project menu, or propose your own:
 https://github.com/code-orange-dev/code-orange-dev/blob/main/fellowships/developer-fellowship/project-menu.md
 
-The "why" matters more than the "which". We are looking for a real reason —
+The "why" matters more than the "which". We are looking for a real reason -
 a problem you find interesting, a tool you use and want to improve, a subsystem
 you got curious about during a cohort.
 

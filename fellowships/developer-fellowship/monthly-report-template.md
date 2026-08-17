@@ -1,4 +1,4 @@
-# Developer Fellowship — Monthly Report
+# Developer Fellowship - Monthly Report
 
 > Copy to `fellowships/reports/<your-github-handle>/YYYY-MM.md`, fill in, open a PR. Due the **5th**.
 >
@@ -49,7 +49,7 @@ nothing visible.
 Be specific about the technical substance. "Worked on the wallet module" tells us
 nothing. "Spent two weeks understanding how BDK's coin selection interacts with
 descriptor derivation, because my first patch broke an invariant I did not know
-existed" tells us a lot — and reads as progress, not failure.
+existed" tells us a lot - and reads as progress, not failure.
 -->
 
 ---
@@ -69,7 +69,7 @@ month ago. This is the actual product of a fellowship month.
 Required. "Nowhere" is almost never true, and a month with no friction usually
 means the work was too easy.
 
-Include how long you were stuck and how it resolved — or that it has not.
+Include how long you were stuck and how it resolved - or that it has not.
 -->
 
 ---

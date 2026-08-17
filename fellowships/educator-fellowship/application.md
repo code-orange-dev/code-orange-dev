@@ -1,6 +1,6 @@
-# Educator Fellowship — Application
+# Educator Fellowship - Application
 
-> Copy to `fellowships/applications/<your-github-handle>.md` and open a PR. Or send it in `#fellowships` on [Discord](https://discord.gg/xd6dmPF9bA) if you would rather not apply in public — that is a completely normal choice and does not count against you.
+> Copy to `fellowships/applications/<your-github-handle>.md` and open a PR. Or send it in `#fellowships` on [Discord](https://discord.gg/xd6dmPF9bA) if you would rather not apply in public - that is a completely normal choice and does not count against you.
 >
 > **Write it yourself.** We would rather read 400 rough honest words than a polished AI-written essay. We can tell, and it is the fastest way to get declined.
 
@@ -24,7 +24,7 @@ Any format counts: a workshop, a study group, a YouTube video, a university tuto
 teaching your brother to set up a hardware wallet.
 
 If you have never formally taught but you are the person your friends ask when they
-have a Bitcoin question — say that. It is real experience.
+have a Bitcoin question - say that. It is real experience.
 
 ~150 words.
 -->
@@ -57,7 +57,7 @@ Rough plan. Which curriculum track would you run, at what cadence, and to whom?
 Look at the available tracks first:
 https://github.com/code-orange-dev/curriculum
 
-You do not need certainty. We want to see that you have thought about the mechanics —
+You do not need certainty. We want to see that you have thought about the mechanics -
 when, where, how often, who.
 -->
 
@@ -74,7 +74,7 @@ Sketch a typical month against the credit table. For example:
   4 × 1:1 mentoring                     = 1.0
                                   Total = 8.0
 
-This is the question people most often get wrong — usually by over-promising.
+This is the question people most often get wrong - usually by over-promising.
 A plan that reaches 8.0 with no slack will break the first time you get sick.
 Show us something you could actually sustain for six months.
 -->
@@ -111,7 +111,7 @@ you want to spend your time on this.
 **Can you attend a monthly train-the-trainer call?** (roughly 1 hour, time TBD)
 **Do you have a venue, or need help finding one?**
 **Do you have a Lightning address or Bitcoin address for stipend payment?**
-**Anything that would interrupt a six-month commitment?** <!-- travel, exams, a job change, a baby — we would rather know now and plan around it -->
+**Anything that would interrupt a six-month commitment?** <!-- travel, exams, a job change, a baby - we would rather know now and plan around it -->
 
 ---
 

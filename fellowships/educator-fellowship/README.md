@@ -15,7 +15,7 @@ You run study cohorts, workshops and meetups. We pay you for it, give you a curr
 | **Effective rate** | ~$32 per session credit |
 | **Term** | 6 months, renewable indefinitely on performance |
 | **Reporting** | One monthly report, due the 5th |
-| **Time commitment** | Realistically 8–12 hours/week including prep |
+| **Time commitment** | Realistically 8-12 hours/week including prep |
 | **Where** | Anywhere. In-person, online, or both |
 | **Language** | Any. We actively want non-English cohorts |
 
@@ -27,12 +27,12 @@ Not every session is the same size, so we count credits rather than raw sessions
 
 | Session type | Minimum length | Minimum attendees | Credits |
 |---|---|---|---|
-| **Study cohort session** — one week of a structured multi-week track | 90 min | 3 | **1.0** |
-| **Hands-on workshop** — participants leave with something deployed or built | 120 min | 5 | **1.5** |
-| **Community meetup / reading club** — discussion-led, less structured | 60 min | 4 | **0.75** |
-| **Train-the-trainer session** — you teaching another facilitator to run a session | 90 min | 2 | **1.5** |
-| **1:1 mentoring** — scheduled, with an agenda | 45 min | 1 | **0.25** |
-| **Conference or event talk** — technical content, public audience | 30 min | 20 | **1.0** |
+| **Study cohort session** - one week of a structured multi-week track | 90 min | 3 | **1.0** |
+| **Hands-on workshop** - participants leave with something deployed or built | 120 min | 5 | **1.5** |
+| **Community meetup / reading club** - discussion-led, less structured | 60 min | 4 | **0.75** |
+| **Train-the-trainer session** - you teaching another facilitator to run a session | 90 min | 2 | **1.5** |
+| **1:1 mentoring** - scheduled, with an agenda | 45 min | 1 | **0.25** |
+| **Conference or event talk** - technical content, public audience | 30 min | 20 | **1.0** |
 
 **Caps and floors, so the number means something:**
 
@@ -56,7 +56,7 @@ Activity is necessary but not sufficient. **Each quarter, at least two participa
 - Started facilitating sessions themselves
 - Applied to a fellowship, grant, or program (Code Orange's, [Btrust](https://www.btrust.tech/), [Summer of Bitcoin](https://www.summerofbitcoin.org/), [OpenSats](https://opensats.org/), or anywhere else)
 
-Two per quarter is a deliberately achievable bar. It exists to keep the fellowship pointed at the pipeline rather than at attendance figures. If you are running eight credits a month and *nobody* is progressing in three months, something is wrong with the format and we should fix it together — that is a conversation, not a penalty.
+Two per quarter is a deliberately achievable bar. It exists to keep the fellowship pointed at the pipeline rather than at attendance figures. If you are running eight credits a month and *nobody* is progressing in three months, something is wrong with the format and we should fix it together - that is a conversation, not a penalty.
 
 ---
 
@@ -69,11 +69,11 @@ Two per quarter is a deliberately achievable bar. It exists to keep the fellowsh
 | [Bitcoin Dojo](https://github.com/code-orange-dev/curriculum/tree/main/bitcoin-dojo) | 7 weeks | Cryptographic primitives from scratch, via Programming Bitcoin |
 | [rawBit](https://github.com/code-orange-dev/curriculum/tree/main/rawbit) | 10 weeks | Raw transaction construction with a visual builder |
 | [Decoding Bitcoin](https://github.com/code-orange-dev/curriculum/tree/main/decoding-bitcoin) | 8 weeks | Transactions, Script, Taproot, PSBTs, Core contribution workflow |
-| [Sovereign Bitcoiner](https://github.com/code-orange-dev/curriculum/tree/main/sovereign-bitcoiner) | 5–10 weeks | Nodes, mining, multisig, inheritance, BTCPay, privacy tools |
+| [Sovereign Bitcoiner](https://github.com/code-orange-dev/curriculum/tree/main/sovereign-bitcoiner) | 5-10 weeks | Nodes, mining, multisig, inheritance, BTCPay, privacy tools |
 | [Privacy Track](https://github.com/code-orange-dev/curriculum/tree/main/privacy-track) | 24 sessions, drop-in | Chain analysis defence, Silent Payments, Payjoin, contribution-first |
 | [Nostr Workshops](https://github.com/code-orange-dev/curriculum/tree/main/nostr-workshops) | Monthly | Nostr, Lightning integrations, FOSS tooling |
 
-**The [facilitation playbook](./facilitation-playbook.md).** How to run a session that works when you are not the smartest person in the room — and what to do when you are asked something you cannot answer.
+**The [facilitation playbook](./facilitation-playbook.md).** How to run a session that works when you are not the smartest person in the room - and what to do when you are asked something you cannot answer.
 
 **Monthly train-the-trainer calls.** All Educator Fellows, one hour, once a month. Curriculum updates, what is landing and what is not, and a place to complain about things that are broken.
 
@@ -85,7 +85,7 @@ Two per quarter is a deliberately achievable bar. It exists to keep the fellowsh
 
 ## What we expect
 
-**Every session logged.** Use the [session log template](./session-log-template.md). Log it within 48 hours while you still remember what happened — retroactive logging at month end is where accuracy goes to die.
+**Every session logged.** Use the [session log template](./session-log-template.md). Log it within 48 hours while you still remember what happened - retroactive logging at month end is where accuracy goes to die.
 
 **One monthly report, due the 5th.** Use the [monthly report template](./monthly-report-template.md). It is short by design. Submit as a PR to `fellowships/reports/<your-handle>/YYYY-MM.md`.
 
@@ -107,7 +107,7 @@ Most fellows start and stay at Fellow. The tiers exist so there is somewhere to 
 | **Educator Fellow** | 8 | **$256/month** | The standard track. Everything on this page. |
 | **Lead Educator** | 8 | *(to be set)* | Owns a curriculum track, mentors 2 apprentices, runs the train-the-trainer call |
 
-> **Note for Code:** only the Educator Fellow stipend is fixed. Apprentice and Lead amounts need your decision before this page goes public — suggested anchors would be half and 1.5× the Fellow rate, but that is your call and your budget.
+> Apprentice and Lead rates are not yet fixed. If either tier is right for you, apply anyway and we will agree a number before you start.
 
 ---
 
@@ -115,10 +115,10 @@ Most fellows start and stay at Fellow. The tiers exist so there is somewhere to 
 
 At month 6 we review against the [evaluation rubric](../shared/evaluation-rubric.md) and one of four things happens:
 
-- **Renew** — another 6 months, same or higher tier
-- **Promote** — move to Lead Educator, take ownership of a track
-- **Graduate** — you are running something self-sustaining and no longer need us. We help you apply for direct funding from [OpenSats](https://opensats.org/), [HRF](https://hrf.org/program/financial-freedom/bitcoin-development-fund/) or [Btrust](https://www.btrust.tech/) so your hub stands on its own.
-- **Conclude** — it is not working. We say so directly, you keep everything you built, and there is no bad blood.
+- **Renew** - another 6 months, same or higher tier
+- **Promote** - move to Lead Educator, take ownership of a track
+- **Graduate** - you are running something self-sustaining and no longer need us. We help you apply for direct funding from [OpenSats](https://opensats.org/), [HRF](https://hrf.org/program/financial-freedom/bitcoin-development-fund/) or [Btrust](https://www.btrust.tech/) so your hub stands on its own.
+- **Conclude** - it is not working. We say so directly, you keep everything you built, and there is no bad blood.
 
 The third outcome is the one we are actually optimising for. The goal is 10 Bitcoin Houses across Southeast Asia, and that does not happen if every hub is on Code Orange's payroll forever.
 
@@ -132,4 +132,4 @@ We respond within 14 days.
 
 ---
 
-*Questions that are not answered here belong in the [FAQ](../shared/faq.md) — open an issue and we will add them.*
+*Questions that are not answered here belong in the [FAQ](../shared/faq.md) - open an issue and we will add them.*
