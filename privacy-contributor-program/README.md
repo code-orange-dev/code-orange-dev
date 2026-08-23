@@ -233,4 +233,13 @@ A successful program makes Code Orange staff progressively less necessary to the
 
 > Our goal is not to optimize for developers who can produce PRs. Our goal is to develop contributors whom upstream projects actually want to keep working with.
 
-See the companion documents in this directory for competencies, contribution scoring, Review Club operations, curriculum, fellowship selection, and participant scorecards.
+## Companion documents
+
+- `CONTRIBUTOR_SCORECARD.md` - competency levels, evidence types, and progression indicators.
+- `CURRICULUM.md` - the competency-driven curriculum and residency checkpoints.
+- `REVIEW_CLUB.md` - preparation, facilitation, review progression, and upstream etiquette.
+- `MEASUREMENT.md` - outcome, retention, and reporting framework.
+- `OPERATING_STANDARD.md` - admission routing, maintainer-aligned project intake, progression gates, governance, and data integrity.
+- `CONTRIBUTOR_PLAN_TEMPLATE.md` - individual residency plan and evidence portfolio.
+- `COHORT_REPORT_TEMPLATE.md` - aggregate reporting at program completion and 3/6/12-month retention.
+- `BTRUST_RESPONSE.md` - polished response to the Btrust follow-up.
