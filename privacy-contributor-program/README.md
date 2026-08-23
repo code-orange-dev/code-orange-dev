@@ -12,37 +12,27 @@ The program is designed to move developers from protocol understanding to truste
 
 PRs remain useful evidence, but they are one contribution type among many. Reviews, testing, issue investigation, technical research, documentation, maintainer communication, and sustained project ownership all count.
 
-## How this fits Code Orange
+## The Code Orange developer pipeline
 
-The Privacy Contributor Program is an advanced specialization layer, not a replacement for Code Orange's existing programs.
+The Privacy Contributor Program is one part of a simple developer pipeline. People can join at the point that matches their experience.
 
 ```text
-DISCOVER
-Workshops / community / Bitcoin House
+WORKSHOPS AND MEETUPS
         ↓
-BUILD FOUNDATIONS
-Bitcoin Dojo / rawBit or competency test-out
+STUDY COHORTS
+Bitcoin Dojo / rawBit / Decoding Bitcoin
         ↓
-BECOME CONTRIBUTION-READY
-Decoding Bitcoin / OSS workflow readiness
+CODE REVIEW CLUB
+Read, test, review, and discuss real Bitcoin work
         ↓
-SPECIALIZE
-Privacy Engineering Foundations
+FELLOWSHIPS
+Focused time, mentor support, and one project
         ↓
-CONTRIBUTE
-Privacy rotations: Read → Build → Test → Review → Contribute
-        ↓
-GO DEEP
-Contributor Residency: one primary upstream project
-        ↓
-STAY
-Code Orange Fellowship / external grants / independent contribution
-        ↓
-MULTIPLY
-Reviewer → mentor → Review Club host → maintainer
+YOUR OWN GRANT OR ROLE
+Independent contribution, project funding, or paid FOSS work
 ```
 
-Participants can test out of prerequisite stages when they already demonstrate the required competencies.
+Privacy specialization, project rotations, and residency sit inside the study-cohort and Code Review Club stages. Participants can test out of prerequisites when they already show the required skills.
 
 ## Program phases
 
