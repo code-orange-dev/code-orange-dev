@@ -225,6 +225,7 @@ A successful program makes Code Orange staff progressively less necessary to the
 
 ## Companion documents
 
+- [The Privacy Sessions](https://github.com/code-orange-dev/curriculum/tree/main/privacy-track) (curriculum repo) - the open, drop-in session series and labs that deliver Phase 1–2 content and feed the Review Club.
 - `CONTRIBUTOR_SCORECARD.md` - competency levels, evidence types, and progression indicators.
 - `CURRICULUM.md` - the competency-driven curriculum and residency checkpoints.
 - `REVIEW_CLUB.md` - preparation, facilitation, review progression, and upstream etiquette.
