@@ -26,7 +26,7 @@ Globally, [only ~41 developers](https://www.bitget.com/news/detail/1256060510195
 
 **Code Orange Dev School exists to fix that.**
 
-Founded by [Keypleb](https://x.com/keypleb_), co-founder of [Bitcoin Indonesia](https://bitcoinindonesia.xyz/) (40+ monthly meetups across 40 cities, ~55,000 Bitcoiners engaged) and [Bitcoin House Bali](https://coinfinity.co/en/blog/bitcoin-house-bali-indonesia), Code Orange is a Bitcoin-only, open-source developer education program training regular developers and technical Bitcoiners into active open-source contributors. Our graduates don't just learn about Bitcoin — they build it, run it, review it, and teach it.
+Founded by [Keypleb](https://x.com/keypleb), co-founder of [Bitcoin Indonesia](https://bitcoinindonesia.xyz/) (40+ monthly meetups across 40 cities, ~55,000 Bitcoiners engaged) and [Bitcoin House Bali](https://coinfinity.co/en/blog/bitcoin-house-bali-indonesia), Code Orange is a Bitcoin-only, open-source developer education program training regular developers and technical Bitcoiners into active open-source contributors. Our graduates don't just learn about Bitcoin — they build it, run it, review it, and teach it.
 
 All curriculum is **free and open-source**. All materials are published on GitHub. Every graduate is a permanent asset for the Bitcoin ecosystem.
 
@@ -97,7 +97,7 @@ Code Orange supports a global network of Bitcoin developers across **8 countries
 - **[rawBit Study Cohort](https://github.com/code-orange-dev/curriculum/tree/main/rawbit) launched** (10 weeks) - building raw transactions from scratch with [@rawBit_io](https://x.com/rawBit_io), the open-source visual transaction builder.
 - **Developer community spanning 8 countries** — Indonesia, India, Romania, Nigeria, Kenya, Zambia, Brazil, and South Korea — working across privacy protocols (BIP352 Silent Payments, BIP77 Payjoin), Rust Bitcoin infrastructure, Lightning tooling, and Bitcoin Core itself.
 - **Peter ([@pzafonte](https://github.com/pzafonte)) contributing to Bitcoin Core** — PR [#34885](https://github.com/bitcoin/bitcoin/pull/34885) to the most critical Bitcoin project, plus Silent Payments integration into kernel-node.
-- **[Sovereign Bitcoiner Mastermind](https://drive.google.com/file/d/1EwJxxaFp-ldk8O0rkIEvdC7dOP5vD2K/view?usp=drive_link)** hosted at [Bitcoin Indonesia Conference 2025](https://bitcoinindonesia.xyz/bitcoin-indonesia-conference-2025/) — Bali's flagship Bitcoin event (250+ attendees, alongside speakers like Alex Gladstein).
+- **[Sovereign Bitcoiner Mastermind](https://github.com/code-orange-dev/mastermind-guide)** hosted at [Bitcoin Indonesia Conference 2025](https://bitcoinindonesia.xyz/bitcoin-indonesia-conference-2025/) — Bali's flagship Bitcoin event (250+ attendees, alongside speakers like Alex Gladstein).
 - **Biweekly in-person workshops** at Code Orange Dev School, Canggu, Bali.
 - **Part-time Bitcoin educator jobs created** through our train-the-trainer program — building a sustainable technical educator economy.
 
@@ -222,8 +222,8 @@ All curriculum is freely available under **CC0 (public domain)** — use it, for
 - **Support via [Geyser Fund](https://geyser.fund/project/codeorangedevschool)**
 
 ![Code Orange Workshop](https://pbs.twimg.com/media/G4CKclnXYAAgIDq?format=jpg&name=large)
-![Code Orange Workshop](https://codeorange.dev/wp-content/uploads/2025/06/Mastermind-Poster-1.png)
-![Code Orange Workshop](https://codeorange.dev/wp-content/uploads/2025/04/IMG_0035.jpeg)
+![Code Orange hands-on workshop](https://codeorange.dev/assets/new-workshops/workshop-hands-on-devices.jpg)
+![Code Orange builders at work](https://codeorange.dev/assets/new-workshops/workshop-table-builders.jpg)
 ![Code Orange Workshop](https://pbs.twimg.com/media/G24Jn8cbcAA-qoV?format=jpg&name=large)
 ![Code Orange Workshop](https://pbs.twimg.com/media/G10m5qmbcAAPL7f?format=jpg&name=large)
 ![Code Orange Workshop](https://pbs.twimg.com/media/G31H1ZaXEAMIzlH?format=jpg&name=large)
