@@ -3,9 +3,9 @@
 
 > **Building the open-source developer community that keeps Bitcoin free, decentralised, and unstoppable — from Southeast Asia to the world.**
 
-![PRs merged](https://img.shields.io/badge/PRs_merged-96-brightgreen) ![PRs opened](https://img.shields.io/badge/PRs_opened-135%2B-blue) ![Active contributors](https://img.shields.io/badge/active_contributors-16-orange) ![Projects](https://img.shields.io/badge/Bitcoin_projects-30%2B-yellow) ![Countries](https://img.shields.io/badge/countries-8-lightgrey) ![License](https://img.shields.io/badge/license-CC0-black)
+![PRs merged](https://img.shields.io/badge/PRs_merged-106-brightgreen) ![PRs opened](https://img.shields.io/badge/PRs_opened-135%2B-blue) ![Active contributors](https://img.shields.io/badge/active_contributors-16-orange) ![Projects](https://img.shields.io/badge/Bitcoin_projects-30%2B-yellow) ![Countries](https://img.shields.io/badge/countries-8-lightgrey) ![License](https://img.shields.io/badge/license-CC0-black)
 
-*Last updated: September 2026 (PR totals from the July 2026 dashboard verification) · [Live PR dashboard →](https://github.com/code-orange-dev/PR-tracking-dashboard)*
+*Last updated: September 2026 (PR totals from the September 2026 dashboard verification) · [Live PR dashboard →](https://github.com/code-orange-dev/PR-tracking-dashboard)*
 
 ---
 
@@ -40,7 +40,7 @@ All curriculum is **free and open-source**. All materials are published on GitHu
 
 Code Orange supports a global network of Bitcoin developers across **8 countries** — Indonesia, India, Romania, Nigeria, Kenya, Zambia, Brazil, and South Korea. We provide mentorship, structured cohorts, and a peer community; their GitHub work is their own, and we are proud to champion it.
 
-**Per the [PR dashboard](https://github.com/code-orange-dev/PR-tracking-dashboard) (verified 12 July 2026): 135+ PRs opened, 96 merged across 30+ Bitcoin projects, by 12 active and 4 emerging contributors.** **[Full PR tracking dashboard →](https://github.com/code-orange-dev/PR-tracking-dashboard)**
+**Per the [PR dashboard](https://github.com/code-orange-dev/PR-tracking-dashboard) (re-verified 26 September 2026): 135+ PRs opened, 106 merged across 30+ Bitcoin projects, by 12 active and 4 emerging contributors.** **[Full PR tracking dashboard →](https://github.com/code-orange-dev/PR-tracking-dashboard)**
 
 ### 🟢 Active — PRs Already Merged or Approved
 
@@ -92,7 +92,7 @@ Code Orange supports a global network of Bitcoin developers across **8 countries
 ## Traction
 
 - **21 graduates** from our [Bitcoin Dojo](https://github.com/code-orange-dev/curriculum/tree/main/bitcoin-dojo) cohort (partnership with [Chaincode Labs](https://chaincode.com/) BOSS Challenge) — 49 registrants, 7-week intensive building Bitcoin primitives from scratch. Graduates now pursuing Good First Issues across Bitcoin Core, rust-bitcoin, and BDK.
-- **16 active contributors** from our cohorts are now contributing to Bitcoin open-source projects — with **135+ PRs opened and 96 merged** (dashboard, July 2026) to Bitcoin Core, rust-bitcoin, BDK, rust-payjoin, rust-lightning (LDK), ldk-node, Core Lightning, peer-observer, hex-conservative, rust-miniscript, kernel-node, ddust, OpenTollGate, and more. **[Full PR tracking dashboard →](https://github.com/code-orange-dev/PR-tracking-dashboard)**
+- **16 active contributors** from our cohorts are now contributing to Bitcoin open-source projects — with **135+ PRs opened and 106 merged** (dashboard, September 2026) to Bitcoin Core, rust-bitcoin, BDK, rust-payjoin, rust-lightning (LDK), ldk-node, Core Lightning, peer-observer, hex-conservative, rust-miniscript, kernel-node, ddust, OpenTollGate, and more. **[Full PR tracking dashboard →](https://github.com/code-orange-dev/PR-tracking-dashboard)**
 - **[Privacy Track](https://github.com/code-orange-dev/curriculum/tree/main/privacy-track)** — a contribution-first curriculum covering chain analysis defence, Silent Payments (BIP352), Payjoin (BIP77/78), CoinJoin, and privacy-preserving wallet development. Built with guest speakers from Fedi, Nunchuk, and the Bitcoin privacy community.
 - **[rawBit Study Cohort](https://github.com/code-orange-dev/curriculum/tree/main/rawbit) launched** (10 weeks) - building raw transactions from scratch with [@rawBit_io](https://x.com/rawBit_io), the open-source visual transaction builder.
 - **Developer community spanning 8 countries** — Indonesia, India, Romania, Nigeria, Kenya, Zambia, Brazil, and South Korea — working across privacy protocols (BIP352 Silent Payments, BIP77 Payjoin), Rust Bitcoin infrastructure, Lightning tooling, and Bitcoin Core itself.
@@ -193,7 +193,7 @@ All curriculum is freely available under **CC0 (public domain)** — use it, for
 ### Impact & Tracking
 
 - **[Impact Report](https://github.com/code-orange-dev/impact-report)** — Developer outcomes, PR contributions, workshop reach, and community growth
-- **[PR Tracking Dashboard](https://github.com/code-orange-dev/PR-tracking-dashboard)** — Every pull request by Code Orange community members, updated monthly — **135+ PRs, 96 merged, 30+ projects** as of the July 2026 verification
+- **[PR Tracking Dashboard](https://github.com/code-orange-dev/PR-tracking-dashboard)** — Every pull request by Code Orange community members, updated monthly — **135+ PRs, 106 merged, 30+ projects** as of the September 2026 verification
 
 ### Workshop Slides & Guides
 
