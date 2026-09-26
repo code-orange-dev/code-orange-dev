@@ -2,6 +2,8 @@
 
 This is a competency-driven blueprint. Exact projects/PRs should be selected close to delivery based on active upstream priorities.
 
+**Session material lives in the curriculum repo.** The open, drop-in [Privacy Sessions](https://github.com/code-orange-dev/curriculum/tree/main/privacy-track) (12 biweekly sessions, labs, issue pool) deliver the Phase 1 foundations and Phase 2 labs below; this document defines the competencies and proof of work those sessions build toward.
+
 ## Phase 1 — Privacy Engineering Foundations (6 weeks)
 
 ### Week 1 — Privacy threat modeling
@@ -43,19 +45,21 @@ Each lab follows:
 ### Lab A — Silent Payments
 BIP352 concepts, scanning, implementation architecture, wallet integration and privacy trade-offs.
 
-### Lab B — Payjoin
+Delivered by Privacy Sessions S1–S3: build a sender and scanner graded against the official BIP352 vectors ([lab](https://github.com/code-orange-dev/curriculum/tree/main/privacy-track/labs/silent-payments)), compare scanning models (full node, tweak indexer, remote scanner), then a Review Club on the Bitcoin Core / libsecp256k1 Silent Payments PRs.
+
+### Lab B — Payjoin (Privacy Sessions S6)
 Transaction construction, receiver/sender roles, server models, implementation/testing and interoperability.
 
-### Lab C — Wallet privacy
+### Lab C — Wallet privacy (Privacy Sessions S4–S5)
 BDK/Bitcoin Core or other active wallet code: coin selection, labels, address/change behavior, privacy-oriented tests.
 
-### Lab D — Network privacy
+### Lab D — Network privacy (Privacy Sessions S7–S8)
 Bitcoin Core P2P/network code and/or peer-observation tooling; transaction propagation and metadata leakage.
 
-### Lab E — Lightning privacy
+### Lab E — Lightning privacy (Privacy Sessions S10)
 Routing/payment privacy, gossip/graph leakage, probing and implementation trade-offs in active Lightning projects.
 
-### Lab F — Privacy architectures
+### Lab F — Privacy architectures (Privacy Sessions S9, S11)
 CoinJoin-related systems/research and Fedimint/eCash where technically relevant to current upstream work.
 
 Labs can span more than one week; not every cohort needs every lab. Choose depth and active upstream opportunities over topic count.
