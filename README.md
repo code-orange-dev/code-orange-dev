@@ -1,6 +1,6 @@
 # 🟠 Code Orange Dev School
 
-Code Orange Dev School is a Bitcoin-only developer education program based in Canggu, Bali, with most sessions online. We run study cohorts, workshops and meetups for developers and technical Bitcoiners who want to learn Bitcoin and contribute to its open-source software. All curriculum is free and CC0-licensed.
+Code Orange Dev School is a Bitcoin-only developer education program. Most sessions run online, with some in-person workshops. We run study cohorts, workshops and meetups for developers and technical Bitcoiners who want to learn Bitcoin and contribute to its open-source software. All curriculum is free and CC0-licensed.
 
 ---
 
