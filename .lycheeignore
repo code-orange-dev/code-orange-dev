@@ -1,0 +1,4 @@
+# Sites that block automated requests; check these by hand.
+^https://(www\.)?x\.com/
+^https://(www\.)?instagram\.com/
+^https://discord\.gg/
