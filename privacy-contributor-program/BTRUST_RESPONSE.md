@@ -56,6 +56,8 @@ We track meaningful evidence across:
 
 Our north-star measure is the percentage of participants who remain meaningfully active in at least one Bitcoin privacy-related open-source project six months after structured training ends. We also check activity at three and twelve months.
 
+Alumni stay supported after structured training through the Review Club, contributor calls, and mentoring.
+
 Where practical, we will collect lightweight upstream feedback, centred on one practical question: **would this project like this contributor to continue working with it?**
 
 ## Fellowship bridge
