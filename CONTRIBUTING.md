@@ -34,6 +34,8 @@ This is the heart of what we do - guiding developers to real, merged contributio
 3. **Pick a good-first-issue** from a real project and open a PR.
 4. **Log it** so it shows up on our [PR Tracking Dashboard](https://github.com/code-orange-dev/PR-tracking-dashboard).
 
+If you want to go deeper in Bitcoin privacy, the [Privacy Contributor Program](./privacy-contributor-program/) describes the path from the Privacy Track to review club, fellowships and sustained contribution.
+
 ### Quality bar before you submit upstream
 
 Maintainers are mostly unpaid and time-starved. A prepared PR gets merged; a sloppy one gets ignored and reflects on the whole program. Before you open an upstream PR:
