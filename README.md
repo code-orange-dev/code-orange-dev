@@ -21,6 +21,7 @@ Full syllabi, exercises and facilitator guides are in the **[curriculum repo](ht
 - **[Decoding Bitcoin](https://github.com/code-orange-dev/curriculum/tree/main/decoding-bitcoin)** *(8 weeks)*: transactions, Script, Taproot, PSBTs and the Bitcoin Core contribution workflow.
 - **[Sovereign Bitcoiner](https://github.com/code-orange-dev/curriculum/tree/main/sovereign-bitcoiner)** *(5-10 weeks)*: full nodes, mining with BitAxe, multisig and inheritance planning.
 - **[Privacy Track](https://github.com/code-orange-dev/curriculum/tree/main/privacy-track)** *(biweekly, drop-in)*: Silent Payments, chain analysis, coin selection, Payjoin, light clients, network privacy, CoinJoin and swaps, Lightning and ecash.
+- **[Privacy Contributor Program](./privacy-contributor-program/)**: the program design for moving developers from study cohorts to sustained contribution in Bitcoin privacy projects, through reviewing, testing and contributing.
 - **[Vibe Coding on Nostr](https://github.com/code-orange-dev/curriculum/tree/main/nostr-workshops)** *(monthly)*: building on Nostr with Lightning integrations.
 
 ### Workshops
