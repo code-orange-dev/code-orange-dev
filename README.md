@@ -59,7 +59,7 @@ All material is **CC0 (public domain)**: use it, fork it, translate it and teach
 - **[PR-tracking-dashboard](https://github.com/code-orange-dev/PR-tracking-dashboard)**: linked PRs by community members, checked weekly
 - **[fellowships](https://github.com/code-orange-dev/fellowships)**: developer and educator fellowship program documents
 - **[workshops](https://github.com/code-orange-dev/workshops)**: workshop archive and materials
-- Workshop slides and guides: [privacy](https://github.com/code-orange-dev/bitcoin-privacy-workshop-slides) · [mining](https://github.com/code-orange-dev/bitcoin-mining-slides) · [full node](https://github.com/code-orange-dev/bitcoin-node-workshop-slides) · [Sovereign Bitcoiner](https://github.com/code-orange-dev/sovereign-bitcoiner-slides) · [mastermind guide](https://github.com/code-orange-dev/mastermind-guide) · [seed phrase backup sheet](https://github.com/code-orange-dev/seed-phrase-backup-sheet)
+- Workshop slides and guides: [Bitcoin Basics](https://github.com/code-orange-dev/bitcoin-basics-slides) (5 beginner sessions) · [privacy](https://github.com/code-orange-dev/bitcoin-privacy-workshop-slides) · [mining](https://github.com/code-orange-dev/bitcoin-mining-slides) · [full node](https://github.com/code-orange-dev/bitcoin-node-workshop-slides) · [Sovereign Bitcoiner](https://github.com/code-orange-dev/sovereign-bitcoiner-slides) · [mastermind guide](https://github.com/code-orange-dev/mastermind-guide) · [seed phrase backup sheet](https://github.com/code-orange-dev/seed-phrase-backup-sheet)
 
 **[All repos →](https://github.com/code-orange-dev?tab=repositories)**
 
